@@ -1,0 +1,32 @@
+"Daily Weather Observations for Thredbo Village, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2133.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Thredbo Village {station 071041}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,,,,,,,,,,,,,,,,,,,,
+,2021-10-2,,,,,,,,,,,,,,,,,,,,
+,2021-10-3,,,,,,,,,,,,,,,,,,,,
+,2021-10-4,,13.3,,,,,,,,,,,,,,,,,,
+,2021-10-5,0.5,,23.4,,,,,,4.0,81,7,SW,9,,,,,,,
+,2021-10-6,,,0,,,,,,,,,,,,,,,,,
+,2021-10-7,,,0,,,,,,,,,,,,,,,,,
+,2021-10-8,,14.5,0,,,,,,,,,,,,,,,,,
+,2021-10-9,1.0,14.0,0,,,,,,9.5,42,6,SE,13,,13.0,40,4,E,13,
+,2021-10-10,7.0,11.3,6.8,,,,,,8.5,81,8,WSW,4,,9.0,87,8, ,Calm,
+,2021-10-11,-2.0,8.0,11.4,,,,,,3.0,61,1,S,2,,,,,,,
+,2021-10-12,1.0,7.0,3.0,,,,,,2.0,,8, ,Calm,,6.0,79,8,S,4,
+,2021-10-13,2.0,9.0,0.6,,,,,,5.0,86,8,S,2,,,,,,,
+,2021-10-14,4.0,,24.6,,,,,,8.0,87,8,ENE,2,,,,,,,
+,2021-10-15,,12.0,,,,,,,,,,,,,,,,,,
+,2021-10-16,0.5,8.5,22.0,,,,,,5.0,86,8,WSW,6,,,,,,,
+,2021-10-17,-0.8,12.2,2.6,,,,,,7.0,37,0, ,Calm,,10.5,50,1, ,Calm,
+,2021-10-18,-0.4,12.5,,,,,,,7.5,65,5, ,Calm,,10.2,74,8,S,2,
+,2021-10-19,0.5,,20.3,,,,,,1.2,96,8, ,Calm,,6.5,66,7, ,Calm,
+,2021-10-20,,10.5,,,,,,,,,,,,,,,,,,
+,2021-10-21,0.0,16.5,0.7,,,,,,10.0,71,3, ,Calm,,15.0,61,6, ,Calm,
+,2021-10-22,3.0,19.0,0,,,,,,13.8,54,1, ,Calm,,,,,,,
+,2021-10-23,3.5,16.0,0,,,,,,13.0,68,6, ,Calm,,13.0,78,7, ,Calm,
+,2021-10-24,1.0,10.2,3.0,,,,,,4.0,63,1, ,Calm,,8.0,51,4,S,9,
+,2021-10-25,-2.0,,0.2,,,,,,5.5,52,0,SE,19,,,,,,,
+,2021-10-26,,,,,,,,,,,,,,,14.5,38,1,SW,2,

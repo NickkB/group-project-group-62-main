@@ -1,0 +1,38 @@
+"Daily Weather Observations for North Head [Wind Only], New South Wales for September 2020"
+"Prepared at 13:00 UTC on Wednesday 13 October 2021   IDCJDW2192.202009"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Manly (North Head) {station 066197}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-09-1,,,,,,SSE,39,00:11,,,,SW,6,,,,,ENE,11,
+,2020-09-2,,,,,,NNW,35,23:24,,,,N,9,,,,,NNE,17,
+,2020-09-3,,,,,,NW,48,12:07,,,,N,13,,,,,NNW,17,
+,2020-09-4,,,,,,NNE,24,14:06,,,,WNW,11,,,,,NNE,15,
+,2020-09-5,,,,,,WNW,37,10:17,,,,W,13,,,,,SE,15,
+,2020-09-6,,,,,,ENE,30,20:37,,,,ESE,15,,,,,ENE,15,
+,2020-09-7,,,,,,NNE,37,21:44,,,,N,11,,,,,NE,19,
+,2020-09-8,,,,,,NNE,33,19:21,,,,NNE,11,,,,,NNE,17,
+,2020-09-9,,,,,,SSW,59,04:42,,,,S,26,,,,,S,22,
+,2020-09-10,,,,,,SSE,44,02:20,,,,SSE,26,,,,,SSE,20,
+,2020-09-11,,,,,,SE,33,01:44,,,,S,4,,,,,ENE,13,
+,2020-09-12,,,,,,NE,35,16:12,,,,NNE,15,,,,,NE,19,
+,2020-09-13,,,,,,W,35,16:13,,,,NW,11,,,,,N,4,
+,2020-09-14,,,,,,SE,26,13:17,,,,SSE,11,,,,,ESE,17,
+,2020-09-15,,,,,,NNE,33,23:34,,,,ENE,11,,,,,NE,20,
+,2020-09-16,,,,,,NNE,33,15:14,,,,NNE,15,,,,,NNE,17,
+,2020-09-17,,,,,,S,72,17:42,,,,NW,19,,,,,NNE,11,
+,2020-09-18,,,,,,S,39,00:27,,,,S,13,,,,,S,9,
+,2020-09-19,,,,,,NE,44,23:03,,,,WSW,4,,,,,ENE,17,
+,2020-09-20,,,,,,NNE,41,15:03,,,,NNE,13,,,,,NNE,24,
+,2020-09-21,,,,,,NNE,35,17:12,,,,NNE,13,,,,,NNE,20,
+,2020-09-22,,,,,,WNW,50,13:50,,,,WSW,19,,,,,WNW,22,
+,2020-09-23,,,,,,NW,48,14:49,,,,NW,11,,,,,WNW,24,
+,2020-09-24,,,,,,W,41,12:21,,,,W,22,,,,,NW,20,
+,2020-09-25,,,,,,W,70,17:05,,,,N,19,,,,,NNW,24,
+,2020-09-26,,,,,,WNW,81,02:02,,,,WNW,33,,,,,W,33,
+,2020-09-27,,,,,,SSE,41,14:39,,,,W,17,,,,,SSE,28,
+,2020-09-28,,,,,,ENE,26,15:29,,,,WSW,6,,,,,ENE,13,
+,2020-09-29,,,,,,NNE,33,22:09,,,,ESE,7,,,,,E,13,
+,2020-09-30,,,,,,NNE,31,16:09,,,,NNE,15,,,,,NNE,17,

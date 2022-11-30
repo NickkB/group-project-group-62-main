@@ -1,0 +1,39 @@
+"Daily Weather Observations for North Head [Wind Only], New South Wales for July 2021"
+"Prepared at 13:00 UTC on Sunday 17 October 2021   IDCJDW2192.202107"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Manly (North Head) {station 066197}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-07-1,,,,,,ENE,22,14:21,,,,WNW,6,,,,,ENE,13,
+,2021-07-2,,,,,,NW,30,20:33,,,,NW,13,,,,,NW,7,
+,2021-07-3,,,,,,WNW,26,08:54,,,,W,22,,,,,ENE,9,
+,2021-07-4,,,,,,WNW,41,08:39,,,,WNW,24,,,,,NW,13,
+,2021-07-5,,,,,,W,35,19:54,,,,W,19,,,,,WSW,15,
+,2021-07-6,,,,,,WNW,30,05:29,,,,W,17,,,,,SW,6,
+,2021-07-7,,,,,,W,24,08:38,,,,W,15,,,,,SSE,7,
+,2021-07-8,,,,,,W,17,09:24,,,,WNW,13,,,,,NE,9,
+,2021-07-9,,,,,,W,46,21:55,,,,WSW,11,,,,,WSW,13,
+,2021-07-10,,,,,,SW,54,12:23,,,,SW,28,,,,,SSW,17,
+,2021-07-11,,,,,,SSE,35,06:49,,,,W,13,,,,,S,13,
+,2021-07-12,,,,,,W,24,07:51,,,,WNW,15,,,,,NE,11,
+,2021-07-13,,,,,,NNW,28,23:32,,,,NW,9,,,,,WNW,11,
+,2021-07-14,,,,,,N,30,19:00,,,,N,9,,,,,NNW,9,
+,2021-07-15,,,,,,W,31,19:59,,,,NNW,15,,,,,NE,13,
+,2021-07-16,,,,,,WNW,80,16:34,,,,N,11,,,,,WNW,31,
+,2021-07-17,,,,,,WNW,78,12:22,,,,NW,30,,,,,WNW,44,
+,2021-07-18,,,,,,WNW,39,00:07,,,,WNW,20,,,,,W,19,
+,2021-07-19,,,,,,W,28,10:26,,,,W,15,,,,,W,11,
+,2021-07-20,,,,,,WNW,44,23:14,,,,WNW,20,,,,,NW,17,
+,2021-07-21,,,,,,WSW,56,05:42,,,,WSW,26,,,,,SSW,31,
+,2021-07-22,,,,,,NNE,33,19:52,,,,W,19,,,,,NNE,13,
+,2021-07-23,,,,,,NNW,37,05:00,,,,N,9,,,,,NE,7,
+,2021-07-24,,,,,,WNW,57,17:50,,,,NW,6,,,,,WNW,30,
+,2021-07-25,,,,,,WNW,70,11:46,,,,W,24,,,,,WNW,33,
+,2021-07-26,,,,,,WNW,52,01:12,,,,NW,15,,,,,WNW,28,
+,2021-07-27,,,,,,NW,33,12:51,,,,NNW,11,,,,,NW,17,
+,2021-07-28,,,,,,NW,70,19:09,,,,N,13,,,,,NW,28,
+,2021-07-29,,,,,,W,43,06:22,,,,WSW,15,,,,,WSW,17,
+,2021-07-30,,,,,,N,28,22:26,,,,W,11,,,,,NE,11,
+,2021-07-31,,,,,,NNE,37,17:58,,,,N,15,,,,,NNE,20,

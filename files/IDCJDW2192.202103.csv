@@ -1,0 +1,39 @@
+"Daily Weather Observations for North Head [Wind Only], New South Wales for March 2021"
+"Prepared at 16:01 UTC on Thursday  7 October 2021   IDCJDW2192.202103"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Manly (North Head) {station 066197}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-03-1,,,,,,S,56,22:41,,,,NW,4,,,,,NNE,20,
+,2021-03-2,,,,,,S,57,23:52,,,,S,11,,,,,SSE,24,
+,2021-03-3,,,,,,S,46,06:00,,,,S,24,,,,,S,22,
+,2021-03-4,,,,,,NNE,33,18:05,,,,W,9,,,,,NE,19,
+,2021-03-5,,,,,,S,50,11:57,,,,SW,15,,,,,S,26,
+,2021-03-6,,,,,,S,41,00:21,,,,SSW,20,,,,,SSE,20,
+,2021-03-7,,,,,,NE,43,22:00,,,,WNW,9,,,,,ENE,15,
+,2021-03-8,,,,,,WNW,37,16:25,,,,NNW,6,,,,,NNE,15,
+,2021-03-9,,,,,,SSE,39,14:19,,,,W,11,,,,,SSE,22,
+,2021-03-10,,,,,,ENE,41,22:48,,,,ESE,15,,,,,ESE,17,
+,2021-03-11,,,,,,NE,43,22:16,,,,N,11,,,,,ENE,24,
+,2021-03-12,,,,,,NNE,46,20:45,,,,NNE,19,,,,,NNE,19,
+,2021-03-13,,,,,,NNE,41,18:34,,,,NNW,9,,,,,NE,17,
+,2021-03-14,,,,,,S,72,10:43,,,,SSW,20,,,,,SSW,28,
+,2021-03-15,,,,,,SSE,48,23:43,,,,WSW,13,,,,,S,20,
+,2021-03-16,,,,,,ESE,57,19:50,,,,WSW,9,,,,,SW,11,
+,2021-03-17,,,,,,ESE,69,17:24,,,,ESE,31,,,,,ESE,35,
+,2021-03-18,,,,,,ESE,65,21:00,,,,ESE,37,,,,,E,20,
+,2021-03-19,,,,,,ESE,65,22:41,,,,ESE,30,,,,,ESE,31,
+,2021-03-20,,,,,,E,76,15:14,,,,ESE,39,,,,,ENE,30,
+,2021-03-21,,,,,,E,70,08:56,,,,E,41,,,,,ENE,31,
+,2021-03-22,,,,,,NE,48,07:30,,,,NNE,20,,,,,NE,20,
+,2021-03-23,,,,,,,,,,,,NE,33,,,,,NNE,24,
+,2021-03-24,,,,,,,,,,,,WNW,15,,,,,WNW,20,
+,2021-03-25,,,,,,W,35,22:56,,,,NW,7,,,,,NE,15,
+,2021-03-26,,,,,,W,35,23:09,,,,W,11,,,,,SE,15,
+,2021-03-27,,,,,,NE,24,16:32,,,,WNW,15,,,,,ENE,11,
+,2021-03-28,,,,,,ESE,28,19:22,,,,WSW,9,,,,,SSE,15,
+,2021-03-29,,,,,,SSE,41,20:58,,,,WNW,9,,,,,ESE,13,
+,2021-03-30,,,,,,SSE,44,19:17,,,,SW,19,,,,,S,20,
+,2021-03-31,,,,,,S,37,12:40,,,,WNW,13,,,,,S,20,

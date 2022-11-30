@@ -1,0 +1,38 @@
+"Daily Weather Observations for Little Bay [Wind Only], New South Wales for April 2021"
+"Prepared at 13:00 UTC on Wednesday 20 October 2021   IDCJDW2193.202104"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Little Bay (The Coast Golf Club) {station 066051}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-04-1,,,,,,SW,24,23:01,,,,WNW,13,,,,,ESE,7,
+,2021-04-2,,,,,,ENE,19,19:58,,,,W,11,,,,,E,11,
+,2021-04-3,,,,,,NE,30,13:57,,,,WNW,11,,,,,NE,22,
+,2021-04-4,,,,,,NNE,35,16:17,,,,W,11,,,,,NNE,20,
+,2021-04-5,,,,,,S,28,06:57,,,,S,17,,,,,SSE,15,
+,2021-04-6,,,,,,E,33,12:19,,,,SSW,9,,,,,ESE,13,
+,2021-04-7,,,,,,ESE,26,09:43,,,,ESE,15,,,,,SE,15,
+,2021-04-8,,,,,,SE,22,03:00,,,,SW,6,,,,,E,9,
+,2021-04-9,,,,,,S,56,17:41,,,,WNW,11,,,,,NW,6,
+,2021-04-10,,,,,,W,43,10:47,,,,W,9,,,,,WSW,15,
+,2021-04-11,,,,,,W,50,08:40,,,,W,26,,,,,WSW,24,
+,2021-04-12,,,,,,SSW,37,10:40,,,,WSW,15,,,,,S,17,
+,2021-04-13,,,,,,NNE,33,16:42,,,,WNW,9,,,,,NE,20,
+,2021-04-14,,,,,,N,30,14:38,,,,NW,4,,,,,N,11,
+,2021-04-15,,,,,,W,26,23:04,,,,WSW,9,,,,,WSW,7,
+,2021-04-16,,,,,,S,41,10:16,,,,SSW,22,,,,,SSE,24,
+,2021-04-17,,,,,,ESE,19,01:17,,,,W,4,,,,,E,6,
+,2021-04-18,,,,,,WNW,20,05:09,,,,WNW,11,,,,,SE,9,
+,2021-04-19,,,,,,W,24,09:09,,,,WNW,15,,,,,NE,11,
+,2021-04-20,,,,,,WNW,20,01:23,,,,WNW,7,,,,,E,6,
+,2021-04-21,,,,,,SW,41,07:19,,,,SW,17,,,,,SSW,19,
+,2021-04-22,,,,,,WSW,35,17:53,,,,W,15,,,,,SW,19,
+,2021-04-23,,,,,,W,31,11:40,,,,WNW,9,,,,,SSE,13,
+,2021-04-24,,,,,,N,22,12:41,,,,WNW,7,,,,,ENE,9,
+,2021-04-25,,,,,,SE,28,15:02,,,,W,11,,,,,SE,19,
+,2021-04-26,,,,,,WNW,20,09:07,,,,WNW,15,,,,,NE,11,
+,2021-04-27,,,,,,ESE,20,16:26,,,,WNW,11,,,,,ESE,13,
+,2021-04-28,,,,,,NE,20,18:36,,,,W,7,,,,,NE,9,
+,2021-04-29,,,,,,NE,22,16:39,,,,WNW,11,,,,,NE,13,
+,2021-04-30,,,,,,ESE,22,14:58,,,,W,11,,,,,ESE,17,

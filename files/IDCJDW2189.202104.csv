@@ -1,0 +1,38 @@
+"Daily Weather Observations for Wattamolla [Wind Only], New South Wales for April 2021"
+"Prepared at 13:00 UTC on Wednesday 20 October 2021   IDCJDW2189.202104"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Wattamolla AWS {station 066208}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-04-1,,,,,,S,50,23:52,,,,WSW,13,,,,,SSE,11,
+,2021-04-2,,,,,,NW,24,01:30,,,,W,13,,,,,ENE,13,
+,2021-04-3,,,,,,NE,35,13:23,,,,NW,15,,,,,NE,26,
+,2021-04-4,,,,,,NE,33,13:54,,,,NW,13,,,,,NE,13,
+,2021-04-5,,,,,,SSE,52,06:37,,,,S,31,,,,,SSE,24,
+,2021-04-6,,,,,,SE,30,21:50,,,,S,19,,,,,S,15,
+,2021-04-7,,,,,,SE,41,16:52,,,,SE,19,,,,,SSE,17,
+,2021-04-8,,,,,,S,30,09:13,,,,S,15,,,,,ESE,9,
+,2021-04-9,,,,,,SSE,74,17:12,,,,NW,11,,,,,NW,13,
+,2021-04-10,,,,,,W,46,09:42,,,,WSW,9,,,,,W,26,
+,2021-04-11,,,,,,W,57,09:00,,,,W,28,,,,,WSW,20,
+,2021-04-12,,,,,,S,56,10:38,,,,SW,22,,,,,SSE,26,
+,2021-04-13,,,,,,SSE,41,02:36,,,,S,15,,,,,NE,19,
+,2021-04-14,,,,,,NW,35,03:29,,,,NNW,15,,,,,N,13,
+,2021-04-15,,,,,,W,50,23:24,,,,W,13,,,,,W,15,
+,2021-04-16,,,,,,SSE,59,10:13,,,,S,37,,,,,SSE,37,
+,2021-04-17,,,,,,SE,26,00:03,,,,NW,9,,,,,NNW,7,
+,2021-04-18,,,,,,S,33,08:19,,,,S,26,,,,,SSE,13,
+,2021-04-19,,,,,,SE,30,13:17,,,,SSE,11,,,,,NE,19,
+,2021-04-20,,,,,,W,35,03:37,,,,WNW,13,,,,,NNW,15,
+,2021-04-21,,,,,,S,48,10:38,,,,SW,20,,,,,S,33,
+,2021-04-22,,,,,,W,39,21:34,,,,W,22,,,,,SW,22,
+,2021-04-23,,,,,,W,39,09:40,,,,SW,15,,,,,SSE,19,
+,2021-04-24,,,,,,WNW,30,08:09,,,,W,19,,,,,WNW,9,
+,2021-04-25,,,,,,S,48,14:00,,,,S,19,,,,,SSE,28,
+,2021-04-26,,,,,,SE,22,14:23,,,,S,7,,,,,SE,17,
+,2021-04-27,,,,,,SE,30,20:05,,,,NW,11,,,,,SE,17,
+,2021-04-28,,,,,,NE,20,13:39,,,,NW,6,,,,,NE,15,
+,2021-04-29,,,,,,ENE,30,12:53,,,,NW,13,,,,,NE,19,
+,2021-04-30,,,,,,ESE,20,13:52,,,,S,9,,,,,SE,17,

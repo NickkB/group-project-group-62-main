@@ -1,0 +1,39 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for January 2021"
+"Prepared at 13:01 UTC on Saturday  9 October 2021   IDCJDW2190.202101"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-01-1,,,,,,SSW,28,08:54,,,,E,13,,,,,ENE,17,
+,2021-01-2,,,,,,NNE,30,22:51,,,,ENE,15,,,,,NNE,9,
+,2021-01-3,,,,,,ENE,37,15:00,,,,E,19,,,,,ENE,17,
+,2021-01-4,,,,,,ENE,52,19:32,,,,ENE,31,,,,,E,24,
+,2021-01-5,,,,,,E,44,08:23,,,,E,20,,,,,N,15,
+,2021-01-6,,,,,,ESE,39,18:07,,,,NW,13,,,,,SW,6,
+,2021-01-7,,,,,,E,52,09:24,,,,ESE,17,,,,,ESE,20,
+,2021-01-8,,,,,,S,63,13:33,,,,ENE,20,,,,,SSW,19,
+,2021-01-9,,,,,,ESE,59,23:09,,,,SE,20,,,,,ESE,35,
+,2021-01-10,,,,,,ESE,52,14:28,,,,ESE,30,,,,,ESE,24,
+,2021-01-11,,,,,,E,50,04:06,,,,E,33,,,,,ESE,28,
+,2021-01-12,,,,,,E,41,05:48,,,,E,28,,,,,E,31,
+,2021-01-13,,,,,,E,44,09:20,,,,E,31,,,,,E,31,
+,2021-01-14,,,,,,ENE,39,05:36,,,,ESE,26,,,,,SW,4,
+,2021-01-15,,,,,,ENE,31,23:22,,,,E,19,,,,,N,13,
+,2021-01-16,,,,,,NW,52,08:05,,,,NW,28,,,,,W,30,
+,2021-01-17,,,,,,SW,37,02:20,,,,SSW,24,,,,,SSW,19,
+,2021-01-18,,,,,,WNW,31,04:58,,,,W,24,,,,,W,24,
+,2021-01-19,,,,,,WNW,70,11:26,,,,NW,26,,,,,SSW,31,
+,2021-01-20,,,,,,S,54,14:57,,,,SSW,39,,,,,SSW,35,
+,2021-01-21,,,,,,S,48,00:38,,,,SSE,24,,,,,SSW,26,
+,2021-01-22,,,,,,N,28,11:01,,,,E,11,,,,,N,17,
+,2021-01-23,,,,,,ENE,30,18:47,,,,NE,11,,,,,ENE,17,
+,2021-01-24,,,,,,ENE,44,20:23,,,,NNE,11,,,,,ENE,20,
+,2021-01-25,,,,,,E,50,21:38,,,,E,20,,,,,ENE,24,
+,2021-01-26,,,,,,ENE,50,03:11,,,,E,13,,,,,N,17,
+,2021-01-27,,,,,,NNE,37,01:08,,,,E,15,,,,,ENE,22,
+,2021-01-28,,,,,,ESE,61,21:40,,,,ESE,22,,,,,E,22,
+,2021-01-29,,,,,,E,67,06:37,,,,ESE,48,,,,,E,41,
+,2021-01-30,,,,,,E,50,23:48,,,,E,33,,,,,ENE,33,
+,2021-01-31,,,,,,ENE,43,23:43,,,,ENE,24,,,,,E,26,

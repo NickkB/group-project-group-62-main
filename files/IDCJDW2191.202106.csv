@@ -1,0 +1,38 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for June 2021"
+"Prepared at 13:00 UTC on Monday 18 October 2021   IDCJDW2191.202106"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-06-1,,,,,,NW,30,09:10,,,,NW,22,,,,, ,Calm,
+,2021-06-2,,,,,,NNW,24,02:46,,,,NW,13,,,,,ENE,17,
+,2021-06-3,,,,,,NW,33,10:00,,,,NNW,11,,,,,WSW,9,
+,2021-06-4,,,,,,W,46,13:49,,,,WSW,17,,,,,WNW,24,
+,2021-06-5,,,,,,SW,35,00:01,,,,WNW,19,,,,,N,6,
+,2021-06-6,,,,,,WNW,31,02:37,,,,WNW,17,,,,,S,13,
+,2021-06-7,,,,,,NE,28,14:25,,,,NW,19,,,,,NE,22,
+,2021-06-8,,,,,,NNE,46,14:51,,,,N,15,,,,,NNE,35,
+,2021-06-9,,,,,,NW,50,15:22,,,,WNW,24,,,,,NW,37,
+,2021-06-10,,,,,,NNE,43,09:46,,,,NNE,17,,,,,WNW,13,
+,2021-06-11,,,,,,W,39,19:40,,,,NW,26,,,,,WNW,26,
+,2021-06-12,,,,,,W,46,21:57,,,,N,22,,,,,NW,30,
+,2021-06-13,,,,,,NW,37,02:26,,,,NW,24,,,,,W,20,
+,2021-06-14,,,,,,WNW,37,00:14,,,,NW,17,,,,,SSW,15,
+,2021-06-15,,,,,,WSW,30,16:33,,,,NW,11,,,,,S,13,
+,2021-06-16,,,,,,W,48,22:38,,,,NW,13,,,,,NNE,9,
+,2021-06-17,,,,,,WNW,59,01:14,,,,NW,26,,,,,WNW,35,
+,2021-06-18,,,,,,WSW,61,19:08,,,,NW,19,,,,,WSW,35,
+,2021-06-19,,,,,,SW,87,12:10,,,,SW,46,,,,,SW,50,
+,2021-06-20,,,,,,SW,65,03:53,,,,SW,37,,,,,SW,31,
+,2021-06-21,,,,,,SSW,43,07:46,,,,SW,20,,,,,SSW,28,
+,2021-06-22,,,,,,ENE,30,20:42,,,,NW,13,,,,,SSE,7,
+,2021-06-23,,,,,,N,31,18:55,,,,NNW,9,,,,,N,15,
+,2021-06-24,,,,,,NNE,41,10:20,,,,NNE,26,,,,,N,30,
+,2021-06-25,,,,,,WNW,54,14:37,,,,WNW,28,,,,,WNW,33,
+,2021-06-26,,,,,,W,56,12:05,,,,NW,30,,,,,W,33,
+,2021-06-27,,,,,,WNW,28,06:22,,,,W,15,,,,,ESE,9,
+,2021-06-28,,,,,,SSW,39,14:02,,,,WNW,11,,,,,SSW,24,
+,2021-06-29,,,,,,SSW,35,04:19,,,,SSW,17,,,,,WSW,15,
+,2021-06-30,,,,,,NNW,28,21:25,,,,NNW,7,,,,,E,9,

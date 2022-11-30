@@ -1,0 +1,34 @@
+"Daily Weather Observations for North Head [Wind Only], New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2192.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Manly (North Head) {station 066197}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,,,,,,W,65,17:22,,,,WNW,6,,,,,E,17,
+,2021-10-2,,,,,,WSW,28,20:33,,,,NW,6,,,,,E,13,
+,2021-10-3,,,,,,W,30,11:22,,,,WNW,7,,,,,NE,9,
+,2021-10-4,,,,,,WNW,63,19:26,,,,N,11,,,,,WSW,20,
+,2021-10-5,,,,,,W,56,12:26,,,,SSW,7,,,,,W,28,
+,2021-10-6,,,,,,W,44,01:23,,,,W,22,,,,,ENE,15,
+,2021-10-7,,,,,,S,76,17:00,,,,N,19,,,,,NE,26,
+,2021-10-8,,,,,,NE,43,17:56,,,,NE,6,,,,,NE,22,
+,2021-10-9,,,,,,NNE,30,18:24,,,,WNW,4,,,,,NE,13,
+,2021-10-10,,,,,,S,61,13:09,,,,NNE,7,,,,,SSW,31,
+,2021-10-11,,,,,,S,57,01:28,,,,SW,19,,,,,SSE,22,
+,2021-10-12,,,,,,ESE,50,10:14,,,,ESE,26,,,,,ESE,22,
+,2021-10-13,,,,,,NE,54,21:34,,,,ESE,22,,,,,ENE,24,
+,2021-10-14,,,,,,NE,54,01:42,,,,N,13,,,,,NE,30,
+,2021-10-15,,,,,,NNW,67,12:16,,,,W,22,,,,,WNW,22,
+,2021-10-16,,,,,,W,63,15:45,,,,WNW,24,,,,,WSW,30,
+,2021-10-17,,,,,,ENE,33,19:38,,,,WSW,19,,,,,E,15,
+,2021-10-18,,,,,,ENE,26,14:39,,,,WNW,15,,,,,ENE,17,
+,2021-10-19,,,,,,S,65,16:52,,,,SW,4,,,,,S,37,
+,2021-10-20,,,,,,W,24,06:34,,,,W,13,,,,,SE,13,
+,2021-10-21,,,,,,ESE,24,16:26,,,,WSW,6,,,,,E,13,
+,2021-10-22,,,,,,E,24,16:00,,,,SSW,9,,,,,ESE,15,
+,2021-10-23,,,,,,S,33,22:07,,,,NNE,13,,,,,ENE,17,
+,2021-10-24,,,,,,SSW,50,04:31,,,,SSW,13,,,,,SSE,20,
+,2021-10-25,,,,,,SE,37,14:46,,,,NW,9,,,,,SE,22,
+,2021-10-26,,,,,,,,,,,,WSW,6,,,,,ESE,17,

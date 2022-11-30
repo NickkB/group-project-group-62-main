@@ -1,0 +1,24 @@
+"Daily Weather Observations for Oberon, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2104.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Oberon (Albion St) {station 063063}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,6.8,16.4,28.2,,,,,,13.4,76,2,N,19,,,,,,,
+,2021-10-2,7.8,12.2,14.6,,,,,,10.0,71,8,W,30,,,,,,,
+,2021-10-3,8.4,15.4,5.4,,,,,,11.2,70,8,W,26,,,,,,,
+,2021-10-4,9.6,14.6,0.4,,,,,,12.6,74,4,W,41,,,,,,,
+,2021-10-5,4.2,12.6,0,,,,,,5.3,75,8,W,37,,,,,,,
+,2021-10-6,2.2,17.5,0,,,,,,9.7,80,0,SW,19,,,,,,,
+,2021-10-7,4.3,20.2,0,,,,,,12.0,73,0,W,37,,,,,,,
+,2021-10-8,5.4,18.6,0,,,,,,7.6,69,0,NE,15,,,,,,,
+,2021-10-9,5.2,21.8,0,,,,,,11.4,64,0,W,19,,,,,,,
+,2021-10-10,9.2,20.0,1.8,,,,,,16.0,82,0,NW,22,,,,,,,
+,2021-10-11,5.8,8.2,10.4,,,,,,6.4,70,8,E,15,,,,,,,
+,2021-10-12,3.0,6.6,4.6,,,,,,5.2,94,8,NE,19,,,,,,,
+,2021-10-13,4.2,11.6,5.8,,,,,,,,8,E,33,,,,,,,
+,2021-10-14,7.4,14.2,4.6,,,,,,10.6,61,8,N,33,,,,,,,
+,2021-10-15,4.4,10.6,8.6,,,,,,6.4,78,4,NW,37,,,,,,,
+,2021-10-16,3.2,10.8,8.4,,,,,,6.0,74,8,W,41,,,,,,,
+,2021-10-17,2.4,16.0,2.6,,,,,,6.3,93,2,W,19,,,,,,,
+,2021-10-18,2.6,,0,,,,,,9.0,78,0,W,11,,,,,,,

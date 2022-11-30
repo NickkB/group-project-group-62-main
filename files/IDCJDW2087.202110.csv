@@ -1,0 +1,33 @@
+"Daily Weather Observations for Mount Boyce, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2087.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day."
+"Observations were drawn from Mount Boyce AWS {station 063292}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,8.0,19.6,7.4,,,W,44,14:55,14.3,80,8,N,9,,9.4,78,7,W,20,
+,2021-10-2,7.4,15.2,9.0,,,WSW,43,17:25,10.7,81,8,W,26,,13.2,71,5,W,20,
+,2021-10-3,7.6,16.3,0.4,,,WSW,48,09:35,10.6,85,6,WSW,26,,15.6,59,8,WSW,22,
+,2021-10-4,10.3,15.8,0,,,WSW,78,20:58,13.3,65,,WSW,20,,14.3,49,,WSW,35,
+,2021-10-5,5.1,11.4,0,,,SW,80,17:13,6.2,72,8,WSW,33,,10.0,42,,WSW,48,
+,2021-10-6,2.6,17.7,0,,,WSW,50,23:13,6.7,60,,W,11,,16.5,31,,W,22,
+,2021-10-7,6.7,20.5,0,,,WSW,61,05:47,14.5,39,,WSW,30,,19.7,31,,WSW,28,
+,2021-10-8,7.1,18.7,0,,,NE,20,08:08,9.7,79,8,NE,9,,16.2,54,8,E,6,
+,2021-10-9,8.6,22.3,0,,,W,46,13:23,12.9,50,,WSW,20,,21.7,37,5,W,20,
+,2021-10-10,12.9,24.2,0,,,SW,56,13:40,19.7,51,,NW,13,,16.7,78,4,WSW,24,
+,2021-10-11,6.3,8.6,7.4,,,E,28,21:47,6.5,99,7,ENE,7,,7.3,98,7,E,6,
+,2021-10-12,4.7,7.9,11.4,,,E,35,20:57,5.0,99,8,E,11,,6.5,99,8,ENE,11,
+,2021-10-13,5.0,12.9,14.4,,,ENE,28,20:29,7.7,99,8,E,11,,11.2,99,8,ENE,13,
+,2021-10-14,7.5,18.6,4.6,,,W,37,20:21,12.8,100,8,NE,7,,14.2,98,6,NNE,11,
+,2021-10-15,4.1,11.8,2.0,,,W,69,17:07,6.2,83,8,NNW,22,,7.8,74,8,W,33,
+,2021-10-16,4.8,9.1,1.8,,,WSW,83,03:09,5.7,87,8,W,31,,7.8,80,8,WSW,30,
+,2021-10-17,4.1,17.3,0,,,WSW,48,23:10,7.5,77,,WSW,17,,15.4,46,,W,15,
+,2021-10-18,6.4,19.6,0,,,W,35,12:48,10.9,60,,W,15,,18.2,39,,W,15,
+,2021-10-19,9.3,19.2,0,,,WSW,59,13:32,13.7,54,,W,13,,18.0,36,,WSW,31,
+,2021-10-20,4.3,15.6,0.8,,,SE,35,10:32,6.6,99,8,SSE,11,,12.7,69,8,ESE,9,
+,2021-10-21,6.4,17.5,0.6,,,ESE,24,09:10,12.2,76,1,ENE,9,,16.1,55,8,E,6,
+,2021-10-22,7.9,20.2,0.2,,,ENE,48,08:28,13.0,77,,ENE,9,,19.5,54,8,E,9,
+,2021-10-23,10.9,26.9,0,,,E,35,18:47,18.4,63,,NE,9,,26.2,39,7,W,13,
+,2021-10-24,8.3,17.5,8.6,,,W,41,09:04,9.9,65,,WSW,26,,16.8,33,,W,19,
+,2021-10-25,3.1,16.1,0,,,WSW,43,08:27,6.7,65,,W,26,,14.1,39,,W,20,
+,2021-10-26,5.2,,0,,,,,,8.9,78,,WSW,7,,18.1,30,,SSW,11,

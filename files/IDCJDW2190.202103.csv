@@ -1,0 +1,39 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for March 2021"
+"Prepared at 16:01 UTC on Thursday  7 October 2021   IDCJDW2190.202103"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-03-1,,,,,,W,19,12:52,,,,SW,9,,,,,WSW,13,
+,2021-03-2,,,,,,NW,54,16:08,,,,NW,17,,,,,NW,22,
+,2021-03-3,,,,,,S,44,23:17,,,,SSW,17,,,,,SSW,24,
+,2021-03-4,,,,,,S,52,00:43,,,,S,22,,,,,SSW,24,
+,2021-03-5,,,,,,W,41,12:44,,,,W,26,,,,,W,30,
+,2021-03-6,,,,,,SSW,56,10:09,,,,SSW,35,,,,,SSW,39,
+,2021-03-7,,,,,,S,56,23:55,,,,SSW,7,,,,,SSW,28,
+,2021-03-8,,,,,,NNE,22,11:49,,,,NW,7,,,,,NNE,11,
+,2021-03-9,,,,,,WNW,63,10:19,,,,NW,22,,,,,NW,20,
+,2021-03-10,,,,,,WNW,37,02:29,,,,SSW,30,,,,,SSW,26,
+,2021-03-11,,,,,,E,37,09:15,,,,E,26,,,,,E,28,
+,2021-03-12,,,,,,ENE,46,13:08,,,,ENE,28,,,,,E,33,
+,2021-03-13,,,,,,ENE,43,12:22,,,,ENE,24,,,,,ENE,28,
+,2021-03-14,,,,,,E,39,00:14,,,,NE,15,,,,,NNE,17,
+,2021-03-15,,,,,,SSE,65,16:55,,,,NW,13,,,,,W,26,
+,2021-03-16,,,,,,SSW,69,04:39,,,,SSW,37,,,,,SSW,24,
+,2021-03-17,,,,,,E,65,18:36,,,,ESE,26,,,,,ESE,43,
+,2021-03-18,,,,,,ENE,70,11:29,,,,E,52,,,,,E,48,
+,2021-03-19,,,,,,E,63,06:11,,,,E,43,,,,,ENE,37,
+,2021-03-20,,,,,,E,67,06:43,,,,E,46,,,,,E,44,
+,2021-03-21,,,,,,E,61,06:26,,,,E,41,,,,,E,33,
+,2021-03-22,,,,,,E,54,23:40,,,,E,39,,,,,E,35,
+,2021-03-23,,,,,,NE,61,15:27,,,,ENE,43,,,,,ENE,35,
+,2021-03-24,,,,,,E,74,13:14,,,,E,22,,,,,E,33,
+,2021-03-25,,,,,,NNE,31,00:07,,,, ,Calm,,,,,SW,9,
+,2021-03-26,,,,,,SW,31,17:10,,,,WSW,9,,,,,WSW,19,
+,2021-03-27,,,,,,SSW,26,00:16,,,,NE,4,,,,,E,13,
+,2021-03-28,,,,,,WSW,33,10:49,,,,NNE,11,,,,,WSW,11,
+,2021-03-29,,,,,,SSW,35,20:14,,,, ,Calm,,,,,SW,19,
+,2021-03-30,,,,,,SW,67,04:59,,,,SSW,30,,,,,SSW,31,
+,2021-03-31,,,,,,SSW,63,05:20,,,,SSW,31,,,,,SSW,39,

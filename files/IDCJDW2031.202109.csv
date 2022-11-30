@@ -1,0 +1,27 @@
+"Daily Weather Observations for Collarenebri, New South Wales for September 2021"
+"Prepared at 13:00 UTC on Thursday 21 October 2021   IDCJDW2031.202109"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Collarenebri (Albert St) {station 048031}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-09-1,8.9,29.5,0,,,,,,20.0,64,0,ENE,6,,,,,,,
+,2021-09-2,16.0,29.0,0,,,,,,21.6,63,0,NE,11,,,,,,,
+,2021-09-3,12.0,26.2,0,,,,,,18.7,58,0,NE,11,,,,,,,
+,2021-09-4,13.4,24.3,0,,,,,,19.8,59,7,N,13,,,,,,,
+,2021-09-5,10.5,18.0,15.0,,,,,,15.1,68,7,SW,2,,,,,,,
+,2021-09-6,5.6,19.2,0,,,,,,12.8,65,0,S,6,,,,,,,
+,2021-09-7,4.8,22.8,0,,,,,,13.6,60,0,SE,4,,,,,,,
+,2021-09-8,6.5,24.0,0,,,,,,15.0,62,0,SE,4,,,,,,,
+,2021-09-9,4.2,,0,,,,,,19.0,56,1,S,2,,,,,,,
+,2021-09-10,,,0,,,,,,,,,,,,,,,,,
+,2021-09-11,,30.7,0,,,,,,,,,,,,,,,,,
+,2021-09-12,5.3,31.8,0,,,,,,26.0,29,0,W,11,,,,,,,
+,2021-09-13,11.6,21.7,0,,,,,,16.6,58,0,S,6,,,,,,,
+,2021-09-14,4.8,20.0,0,,,,,,12.8,57,0,SW,7,,,,,,,
+,2021-09-15,4.2,22.7,0,,,,,,15.8,55,0,E,4,,,,,,,
+,2021-09-16,6.6,24.3,0,,,,,,16.4,61,0,N,6,,,,,,,
+,2021-09-17,6.2,28.2,0,,,,,,18.4,66,0,NNE,6,,,,,,,
+,2021-09-18,15.7,27.7,0,,,,,,22.0,77,8,N,9,,,,,,,
+,2021-09-19,10.3,,0.3,,,,,,16.2,81,2,E,2,,,,,,,
+,2021-09-20,,29.3,0,,,,,,,,,,,,,,,,,
+,2021-09-21,6.0,,0,,,,,,12.0,76,4,SW,7,,,,,,,

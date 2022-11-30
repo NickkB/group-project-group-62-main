@@ -1,0 +1,38 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for November 2020"
+"Prepared at 13:01 UTC on Monday 11 October 2021   IDCJDW2190.202011"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-11-1,,,,,,NE,69,14:00,,,,N,19,,,,,NNE,39,
+,2020-11-2,,,,,,WSW,57,14:44,,,,SSW,26,,,,,SW,44,
+,2020-11-3,,,,,,SSW,70,04:25,,,,S,37,,,,,S,37,
+,2020-11-4,,,,,,SSW,59,23:15,,,,S,7,,,,,S,24,
+,2020-11-5,,,,,,WNW,33,14:24,,,,WNW,11,,,,,WNW,19,
+,2020-11-6,,,,,,SW,80,19:22,,,,W,39,,,,,WSW,56,
+,2020-11-7,,,,,,SSW,74,23:53,,,,SW,44,,,,,SSW,41,
+,2020-11-8,,,,,,SSW,65,23:15,,,,S,41,,,,,S,39,
+,2020-11-9,,,,,,S,63,01:46,,,,SSW,26,,,,,S,30,
+,2020-11-10,,,,,,S,43,13:30,,,,S,19,,,,,S,11,
+,2020-11-11,,,,,,E,30,10:43,,,,SW,13,,,,,ESE,17,
+,2020-11-12,,,,,,E,41,17:54,,,,NE,7,,,,,ENE,22,
+,2020-11-13,,,,,,NNE,50,22:23,,,,E,15,,,,,N,19,
+,2020-11-14,,,,,,NW,56,07:37,,,,W,30,,,,,ENE,15,
+,2020-11-15,,,,,,NW,39,03:03,,,,WNW,22,,,,,SW,24,
+,2020-11-16,,,,,,N,28,22:24,,,,ENE,15,,,,,N,11,
+,2020-11-17,,,,,,ESE,48,22:24,,,,NNW,9,,,,,WSW,11,
+,2020-11-18,,,,,,SE,59,03:31,,,,ESE,30,,,,,E,28,
+,2020-11-19,,,,,,E,43,09:34,,,,E,24,,,,,ESE,22,
+,2020-11-20,,,,,,ENE,33,19:35,,,,ENE,19,,,,,ENE,20,
+,2020-11-21,,,,,,N,24,23:12,,,,WNW,9,,,,,W,11,
+,2020-11-22,,,,,,W,24,09:43,,,,WNW,15,,,,,W,15,
+,2020-11-23,,,,,,NW,52,14:09,,,,NW,17,,,,,NW,31,
+,2020-11-24,,,,,,WNW,94,06:50,,,,W,37,,,,,SW,33,
+,2020-11-25,,,,,,E,39,15:58,,,,S,17,,,,,SE,15,
+,2020-11-26,,,,,,E,28,14:46,,,,W,6,,,,,S,7,
+,2020-11-27,,,,,,ESE,31,10:55,,,,E,22,,,,,E,17,
+,2020-11-28,,,,,,WNW,37,13:21,,,,NNE,15,,,,,NW,17,
+,2020-11-29,,,,,,NW,67,20:22,,,,NW,43,,,,,NW,31,
+,2020-11-30,,,,,,NW,54,23:28,,,,SSE,9,,,,,ESE,24,

@@ -1,0 +1,38 @@
+"Daily Weather Observations for Wattamolla [Wind Only], New South Wales for June 2021"
+"Prepared at 13:00 UTC on Monday 18 October 2021   IDCJDW2189.202106"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Wattamolla AWS {station 066208}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-06-1,,,,,,NW,33,09:23,,,,NNW,13,,,,,NNW,11,
+,2021-06-2,,,,,,NNW,26,18:01,,,,W,9,,,,,N,11,
+,2021-06-3,,,,,,NW,39,10:01,,,,NNW,11,,,,,SW,7,
+,2021-06-4,,,,,,,,,,,,SW,24,,,,,W,17,
+,2021-06-5,,,,,,S,59,00:41,,,,WSW,13,,,,,NW,7,
+,2021-06-6,,,,,,W,35,01:17,,,,W,13,,,,,SSE,11,
+,2021-06-7,,,,,,NNW,28,12:45,,,,W,6,,,,,NE,11,
+,2021-06-8,,,,,,N,50,20:38,,,,NNW,11,,,,,N,26,
+,2021-06-9,,,,,,NW,35,13:37,,,,W,17,,,,,NW,17,
+,2021-06-10,,,,,,N,33,11:16,,,,NNW,13,,,,,WNW,7,
+,2021-06-11,,,,,,WNW,44,21:45,,,,WNW,13,,,,,WNW,20,
+,2021-06-12,,,,,,NW,39,11:08,,,,N,17,,,,,NW,19,
+,2021-06-13,,,,,,WNW,46,08:45,,,,WNW,30,,,,,W,13,
+,2021-06-14,,,,,,SSE,39,17:57,,,,W,13,,,,,S,28,
+,2021-06-15,,,,,,S,37,06:41,,,,S,26,,,,,S,17,
+,2021-06-16,,,,,,WNW,35,22:36,,,,NW,7,,,,,N,13,
+,2021-06-17,,,,,,WNW,50,10:04,,,,WNW,15,,,,,W,22,
+,2021-06-18,,,,,,W,56,18:34,,,,NNW,7,,,,,WSW,28,
+,2021-06-19,,,,,,S,111,15:18,,,,S,48,,,,,S,74,
+,2021-06-20,,,,,,S,87,00:32,,,,S,61,,,,,S,46,
+,2021-06-21,,,,,,S,56,02:45,,,,SSE,31,,,,,S,33,
+,2021-06-22,,,,,,S,41,05:12,,,,NNW,7,,,,,SSE,7,
+,2021-06-23,,,,,,N,28,12:34,,,,NNW,13,,,,,N,17,
+,2021-06-24,,,,,,NNW,52,14:10,,,,N,24,,,,,NNW,22,
+,2021-06-25,,,,,,NW,52,11:40,,,,NW,24,,,,,NW,19,
+,2021-06-26,,,,,,WNW,54,12:21,,,,NW,9,,,,,W,19,
+,2021-06-27,,,,,,WNW,37,06:04,,,,W,17,,,,,SE,9,
+,2021-06-28,,,,,,S,52,06:18,,,,S,31,,,,,S,35,
+,2021-06-29,,,,,,SSE,52,07:36,,,,S,33,,,,,S,31,
+,2021-06-30,,,,,,NNW,22,21:48,,,,SW,9,,,,,ENE,11,

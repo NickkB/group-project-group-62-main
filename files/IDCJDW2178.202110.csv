@@ -1,0 +1,32 @@
+"Daily Weather Observations for Orange Agricultural Institute, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2178.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Orange Agricultural Institute {station 063254}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,7.4,,9.6,0.4,,,,,13.9,89,5,ENE,11,,,,,,,
+,2021-10-2,,,,,,,,,,,,,,,,,,,,
+,2021-10-3,,,,,,,,,,,,,,,,,,,,
+,2021-10-4,,16.0,,,,,,,,,,,,,,,,,,
+,2021-10-5,5.6,11.0,8.8,10.6,,,,,6.1,79,8,WSW,17,,,,,,,
+,2021-10-6,1.9,16.3,0.2,2.4,,,,,9.9,56,0,S,2,,,,,,,
+,2021-10-7,6.1,18.9,0,4.4,,,,,13.4,42,7,NW,13,,,,,,,
+,2021-10-8,2.1,,0,4.8,,,,,9.6,80,7,ENE,2,,,,,,,
+,2021-10-9,,,,,,,,,,,,,,,,,,,,
+,2021-10-10,,21.4,,,,,,,,,,,,,,,,,,
+,2021-10-11,5.3,14.8,11.8,12.2,,,,,9.0,68,8,SE,2,,,,,,,
+,2021-10-12,6.1,11.5,12.2,4.0,,,,,6.8,90,8,E,13,,,,,,,
+,2021-10-13,6.0,15.5,0,1.4,,,,,10.0,85,8,ENE,6,,,,,,,
+,2021-10-14,9.7,18.8,2.2,1.4,,,,,12.0,87,8,NNE,6,,,,,,,
+,2021-10-15,4.7,,5.0,3.6,,,,,9.3,76,6,N,15,,,,,,,
+,2021-10-16,,,,,,,,,,,,,,,,,,,,
+,2021-10-17,,15.1,,,,,,,,,,,,,,,,,,
+,2021-10-18,2.7,18.3,5.8,8.0,,,,,12.5,66,1,NNE,4,,,,,,,
+,2021-10-19,7.5,17.2,0,3.8,,,,,15.5,48,1,WNW,19,,,,,,,
+,2021-10-20,2.9,16.6,0,5.8,,,,,9.4,75,4,SE,37,,,,,,,
+,2021-10-21,5.3,18.6,0,3.6,,,,,12.0,64,3,ESE,15,,,,,,,
+,2021-10-22,6.6,,0,3.8,,,,,13.4,75,0,NE,9,,,,,,,
+,2021-10-23,,,0,,,,,,,,,,,,,,,,,
+,2021-10-24,,24.4,0,,,,,,,,,,,,,,,,,
+,2021-10-25,2.0,14.2,0,14.6,,,,,9.2,54,0,W,20,,,,,,,
+,2021-10-26,1.4,,0,5.8,,,,,10.5,65,0,NNE,4,,,,,,,

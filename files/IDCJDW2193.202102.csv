@@ -1,0 +1,36 @@
+"Daily Weather Observations for Little Bay [Wind Only], New South Wales for February 2021"
+"Prepared at 13:00 UTC on Friday  8 October 2021   IDCJDW2193.202102"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Little Bay (The Coast Golf Club) {station 066051}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-02-1,,,,,,NNE,43,19:41,,,,SSW,11,,,,,E,13,
+,2021-02-2,,,,,,SSW,44,04:44,,,,SSW,22,,,,,SSE,22,
+,2021-02-3,,,,,,SSW,46,05:17,,,,SSW,20,,,,,ESE,15,
+,2021-02-4,,,,,,NE,41,13:30,,,,NNE,13,,,,,NE,30,
+,2021-02-5,,,,,,NE,54,20:08,,,,NNE,13,,,,,NNE,31,
+,2021-02-6,,,,,,NNE,44,00:26,,,,N,22,,,,,NNE,26,
+,2021-02-7,,,,,,SSE,37,21:43,,,,WSW,9,,,,,SSE,17,
+,2021-02-8,,,,,,SSE,37,07:36,,,,SSE,22,,,,,S,20,
+,2021-02-9,,,,,,SE,30,05:35,,,,SE,17,,,,,S,20,
+,2021-02-10,,,,,,SSE,26,00:10,,,,SSE,17,,,,,ESE,11,
+,2021-02-11,,,,,,NNE,50,22:25,,,,NNW,7,,,,,NE,26,
+,2021-02-12,,,,,,NNE,48,23:08,,,,NNE,15,,,,,NNE,26,
+,2021-02-13,,,,,,SSE,44,14:20,,,,S,20,,,,,S,28,
+,2021-02-14,,,,,,S,41,16:26,,,,SSW,24,,,,,S,26,
+,2021-02-15,,,,,,S,61,15:56,,,,S,31,,,,,S,39,
+,2021-02-16,,,,,,ESE,39,19:26,,,,ESE,11,,,,,SE,15,
+,2021-02-17,,,,,,SE,44,17:35,,,,SSE,19,,,,,E,22,
+,2021-02-18,,,,,,E,41,11:19,,,,E,15,,,,,NNE,6,
+,2021-02-19,,,,,,E,35,00:27,,,,ENE,17,,,,,ESE,9,
+,2021-02-20,,,,,,NE,20,19:18,,,,SSE,6,,,,,ENE,9,
+,2021-02-21,,,,,,SSE,24,12:44,,,,SSW,9,,,,,S,15,
+,2021-02-22,,,,,,S,63,21:00,,,,WSW,7,,,,,S,22,
+,2021-02-23,,,,,,S,50,23:03,,,,S,26,,,,,S,30,
+,2021-02-24,,,,,,SSW,43,07:51,,,,SSW,28,,,,,SSW,20,
+,2021-02-25,,,,,,NE,19,14:56,,,,NW,4,,,,,SSW,2,
+,2021-02-26,,,,,,SE,30,17:49,,,,SSW,15,,,,,SE,17,
+,2021-02-27,,,,,,NNE,26,19:08,,,,NNE,6,,,,,NE,7,
+,2021-02-28,,,,,,S,30,06:26,,,,SSW,22,,,,,SSE,17,

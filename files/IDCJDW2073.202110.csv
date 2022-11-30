@@ -1,0 +1,32 @@
+"Daily Weather Observations for Lightning Ridge, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2073.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Lightning Ridge Visitor Information Cent {station 048243}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,,26.2,0,,,,,,20.2,,0,W,9,,,,,,,
+,2021-10-2,,24.8,0,,,,,,19.8,56,0,WNW,6,,,,,,,
+,2021-10-3,,29.5,0,,,,,,17.9,63,0,SSW,9,,,,,,,
+,2021-10-4,,26.0,0,,,,,,20.4,47,0,SW,17,,,,,,,
+,2021-10-5,,25.1,0,,,,,,17.3,38,0,SW,13,,,,,,,
+,2021-10-6,,26.6,0,,,,,,17.1,46,0, ,,,,,,,,
+,2021-10-7,,26.6,0,,,,,,21.9,28,8,NE,4,,,,,,,
+,2021-10-8,,29.4,1.0,,,,,,15.8,68,0,N,2,,,,,,,
+,2021-10-9,,33.7,0,,,,,,22.2,63,0,ENE,19,,,,,,,
+,2021-10-10,,31.0,0,,,,,,25.8,48,7,N,6,,,,,,,
+,2021-10-11,,20.5,9.0,,,,,,16.8,94,8,SE,2,,,,,,,
+,2021-10-12,,18.1,1.2,,,,,,12.5,94,8, ,,,,,,,,
+,2021-10-13,,25.5,0,,,,,,17.3,85,7, ,,,,,,,,
+,2021-10-14,,29.2,0.3,,,,,,19.9,56,0,ESE,4,,,,,,,
+,2021-10-15,,23.7,0,,,,,,17.1,43,0,WNW,17,,,,,,,
+,2021-10-16,,24.3,0,,,,,,16.0,59,0,WSW,7,,,,,,,
+,2021-10-17,,26.9,0,,,,,,18.0,56,0,WSW,6,,,,,,,
+,2021-10-18,,30.4,0,,,,,,21.0,42,2,W,11,,,,,,,
+,2021-10-19,,31.9,0,,,,,,20.6,67,2,SW,4,,,,,,,
+,2021-10-20,,29.5,0,,,,,,21.9,29,0,S,4,,,,,,,
+,2021-10-21,,28.5,0,,,,,,22.6,46,6, ,,,,,,,,
+,2021-10-22,,34.0,0,,,,,,20.8,61,0,SSE,6,,,,,,,
+,2021-10-23,,38.5,0,,,,,,26.3,56,0,ENE,20,,,,,,,
+,2021-10-24,,,0,,,,,,21.1,43,0,SSE,7,,,,,,,
+,2021-10-25,,28.1,0,,,,,,18.9,38,2,SSE,9,,,,,,,
+,2021-10-26,,,0,,,,,,20.0,41,0,E,9,,,,,,,

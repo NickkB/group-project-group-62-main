@@ -1,0 +1,22 @@
+"Daily Weather Observations for Newcastle University, New South Wales for April 2021"
+"Prepared at 13:00 UTC on Wednesday 20 October 2021   IDCJDW2098.202104"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Newcastle University {station 061390}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-04-1,,,,,,,,,,,,,,,,,,,,
+,2021-04-2,,,,,,,,,,,,,,,,,,,,
+,2021-04-3,,,,,,,,,,,,,,,,,,,,
+,2021-04-4,,,,,,,,,,,,,,,,,,,,
+,2021-04-5,,,,,,,,,,,,,,,,,,,,
+,2021-04-6,,,,,,,,,,,,,,,,,,,,
+,2021-04-7,,26.6,,,,,,,,,,,,,,,,,,
+,2021-04-8,13.5,25.2,6.0,,,,,,21.4,89,7, ,Calm,,,,,,,
+,2021-04-9,15.0,,0.3,,,,,,20.5,79,2, ,Calm,,,,,,,
+,2021-04-10,,,0,,,,,,,,,,,,,,,,,
+,2021-04-11,,29.6,0,,,,,,,,,,,,,,,,,
+,2021-04-12,7.0,20.3,0,,,,,,14.6,50,0,NW,9,,,,,,,
+,2021-04-13,7.2,,0,,,,,,15.5,69,0, ,Calm,,,,,,,
+,2021-04-14,,27.2,0,,,,,,,,,,,,,,,,,
+,2021-04-15,9.7,25.6,0,,,,,,21.6,50,0, ,Calm,,,,,,,
+,2021-04-16,8.5,,0,,,,,,18.0,53,7, ,Calm,,,,,,,

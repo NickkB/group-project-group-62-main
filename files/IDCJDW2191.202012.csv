@@ -1,0 +1,39 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for December 2020"
+"Prepared at 13:01 UTC on Sunday 10 October 2021   IDCJDW2191.202012"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-12-1,,,,,,NE,61,14:34,,,,NNE,31,,,,,NE,48,
+,2020-12-2,,,,,,SSW,61,01:34,,,,SSE,26,,,,,SE,28,
+,2020-12-3,,,,,,NE,41,19:10,,,,ENE,17,,,,,NNE,31,
+,2020-12-4,,,,,,S,41,21:27,,,,NNW,9,,,,,E,26,
+,2020-12-5,,,,,,NNE,44,18:55,,,,ENE,17,,,,,NE,19,
+,2020-12-6,,,,,,WNW,50,10:07,,,,NW,30,,,,,NW,31,
+,2020-12-7,,,,,,WNW,56,17:00,,,,NW,24,,,,,NNW,15,
+,2020-12-8,,,,,,,,,,,,SW,30,,,,,S,30,
+,2020-12-9,,,,,,ENE,43,15:24,,,,NW,13,,,,,ENE,31,
+,2020-12-10,,,,,,S,72,12:39,,,,W,7,,,,,S,50,
+,2020-12-11,,,,,,SSE,50,23:36,,,,SSE,26,,,,,SSE,26,
+,2020-12-12,,,,,,SE,41,12:01,,,,SE,26,,,,,SSE,30,
+,2020-12-13,,,,,,E,37,21:27,,,,E,13,,,,,E,24,
+,2020-12-14,,,,,,ENE,41,09:48,,,,ESE,13,,,,,ESE,13,
+,2020-12-15,,,,,,ENE,39,23:06,,,,ESE,11,,,,,E,20,
+,2020-12-16,,,,,,NE,57,12:54,,,,NE,28,,,,,NE,37,
+,2020-12-17,,,,,,NE,52,16:17,,,,NE,20,,,,,NE,35,
+,2020-12-18,,,,,,S,59,16:15,,,,NNW,13,,,,,WNW,20,
+,2020-12-19,,,,,,SSW,43,23:16,,,,S,26,,,,,S,17,
+,2020-12-20,,,,,,SSW,35,00:11,,,,SW,17,,,,,SSE,13,
+,2020-12-21,,,,,,ENE,33,14:09,,,,SE,11,,,,,ENE,19,
+,2020-12-22,,,,,,W,57,20:16,,,,WNW,15,,,,,WNW,31,
+,2020-12-23,,,,,,S,54,12:55,,,,W,30,,,,,S,35,
+,2020-12-24,,,,,,NE,54,17:06,,,,NNW,11,,,,,NE,39,
+,2020-12-25,,,,,,S,48,02:46,,,,SSW,33,,,,,S,31,
+,2020-12-26,,,,,,NNE,54,19:53,,,,ESE,6,,,,,NE,37,
+,2020-12-27,,,,,,NE,54,19:31,,,,NW,11,,,,,ENE,28,
+,2020-12-28,,,,,,S,57,10:50,,,,SSW,33,,,,,S,33,
+,2020-12-29,,,,,,SSW,57,17:08,,,,SSW,20,,,,,SSW,33,
+,2020-12-30,,,,,,SSE,48,23:04,,,,SSE,22,,,,,SE,22,
+,2020-12-31,,,,,,SE,35,16:06,,,,SSE,20,,,,,SSE,19,

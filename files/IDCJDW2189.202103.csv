@@ -1,0 +1,39 @@
+"Daily Weather Observations for Wattamolla [Wind Only], New South Wales for March 2021"
+"Prepared at 16:01 UTC on Thursday  7 October 2021   IDCJDW2189.202103"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Wattamolla AWS {station 066208}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-03-1,,,,,,S,74,21:37,,,,NNW,13,,,,,NE,22,
+,2021-03-2,,,,,,SSE,69,23:14,,,,SSE,37,,,,,SSE,39,
+,2021-03-3,,,,,,,,,,,,S,43,,,,,SSE,31,
+,2021-03-4,,,,,,,,,,,,S,11,,,,,NE,15,
+,2021-03-5,,,,,,SSE,72,09:07,,,,S,31,,,,,SSE,50,
+,2021-03-6,,,,,,,,,,,,S,48,,,,,SSE,28,
+,2021-03-7,,,,,,,,,,,,,,,,,,NE,24,
+,2021-03-8,,,,,,,,,,,,,,,,,,,,
+,2021-03-9,,,,,,,,,,,,,,,,,,,,
+,2021-03-10,,,,,,,,,,,,,,,,,,E,15,
+,2021-03-11,,,,,,,,,,,,NNE,17,,,,,NE,24,
+,2021-03-12,,,,,,N,41,18:22,,,,NNW,11,,,,,NE,13,
+,2021-03-13,,,,,,N,48,17:33,,,,NNW,11,,,,,NE,19,
+,2021-03-14,,,,,,,,,,,,S,67,,,,,SSE,74,
+,2021-03-15,,,,,,,,,,,,,,,,,,SSE,28,
+,2021-03-16,,,,,,SSE,61,16:28,,,,S,28,,,,,WSW,7,
+,2021-03-17,,,,,,SE,63,19:54,,,,SE,33,,,,,SE,33,
+,2021-03-18,,,,,,SE,59,04:22,,,,ESE,26,,,,,N,11,
+,2021-03-19,,,,,,,,,,,,SE,39,,,,,SE,41,
+,2021-03-20,,,,,,,,,,,,,,,,,,,,
+,2021-03-21,,,,,,,,,,,,,,,,,,NE,30,
+,2021-03-22,,,,,,,,,,,,N,20,,,,,N,20,
+,2021-03-23,,,,,,NNE,59,10:24,,,,NNE,31,,,,,N,28,
+,2021-03-24,,,,,,WNW,46,12:33,,,,NNW,9,,,,,W,22,
+,2021-03-25,,,,,,S,50,22:50,,,,WSW,9,,,,,NE,9,
+,2021-03-26,,,,,,S,35,23:26,,,,S,13,,,,,ENE,13,
+,2021-03-27,,,,,,NE,31,15:35,,,,WNW,13,,,,,ENE,19,
+,2021-03-28,,,,,,S,48,02:37,,,,S,15,,,,,SSE,17,
+,2021-03-29,,,,,,S,59,22:33,,,,SSW,11,,,,,S,22,
+,2021-03-30,,,,,,S,67,00:15,,,,S,39,,,,,SSE,35,
+,2021-03-31,,,,,,S,57,10:35,,,,S,35,,,,,S,31,

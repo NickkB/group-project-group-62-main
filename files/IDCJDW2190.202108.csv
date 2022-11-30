@@ -1,0 +1,39 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for August 2021"
+"Prepared at 16:00 UTC on Saturday 16 October 2021   IDCJDW2190.202108"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-08-1,,,,,,NW,61,19:49,,,,NW,19,,,,,NW,24,
+,2021-08-2,,,,,,SSW,52,16:43,,,,SSW,33,,,,,SSE,24,
+,2021-08-3,,,,,,NW,74,22:58,,,,ENE,11,,,,,NNE,24,
+,2021-08-4,,,,,,W,89,01:33,,,,WSW,44,,,,,W,44,
+,2021-08-5,,,,,,WSW,80,00:01,,,,WSW,44,,,,,SW,54,
+,2021-08-6,,,,,,SW,72,23:57,,,,SSW,41,,,,,SSW,33,
+,2021-08-7,,,,,,SSW,41,23:32,,,,SSW,28,,,,,SW,22,
+,2021-08-8,,,,,,SSW,83,15:53,,,,S,37,,,,,S,31,
+,2021-08-9,,,,,,SSW,61,23:59,,,,ESE,11,,,,,S,13,
+,2021-08-10,,,,,,E,37,01:08,,,,E,9,,,,,E,15,
+,2021-08-11,,,,,,NW,48,22:45,,,,NNE,13,,,,,NW,11,
+,2021-08-12,,,,,,NW,59,07:21,,,,NW,22,,,,,NW,31,
+,2021-08-13,,,,,,ESE,39,03:12,,,,E,22,,,,,E,11,
+,2021-08-14,,,,,,N,28,23:00,,,,E,17,,,,,E,13,
+,2021-08-15,,,,,,NW,30,22:44,,,,NNE,11,,,,,N,9,
+,2021-08-16,,,,,,NW,59,14:19,,,,NW,33,,,,,NW,31,
+,2021-08-17,,,,,,WSW,50,23:56,,,,WSW,26,,,,,SSW,20,
+,2021-08-18,,,,,,SSW,48,00:57,,,,S,22,,,,,S,20,
+,2021-08-19,,,,,,NNE,37,21:01,,,,E,20,,,,,E,15,
+,2021-08-20,,,,,,ENE,41,09:42,,,,E,17,,,,,ENE,9,
+,2021-08-21,,,,,,NW,31,11:19,,,,NW,13,,,,,NW,15,
+,2021-08-22,,,,,,W,31,03:49,,,,SSW,13,,,,,E,20,
+,2021-08-23,,,,,,N,46,22:13,,,,N,11,,,,,N,9,
+,2021-08-24,,,,,,NNE,67,13:04,,,,NNE,24,,,,,NNE,24,
+,2021-08-25,,,,,,W,52,23:16,,,,NW,30,,,,,NW,37,
+,2021-08-26,,,,,,WNW,48,00:32,,,,WNW,26,,,,,WNW,20,
+,2021-08-27,,,,,,WSW,52,14:48,,,,W,28,,,,,WSW,35,
+,2021-08-28,,,,,,W,70,14:33,,,,W,50,,,,,W,56,
+,2021-08-29,,,,,,SW,54,04:20,,,,WSW,35,,,,,SW,33,
+,2021-08-30,,,,,,W,52,11:35,,,,ENE,28,,,,,SW,37,
+,2021-08-31,,,,,,SSW,28,23:46,,,,S,9,,,,,SW,11,

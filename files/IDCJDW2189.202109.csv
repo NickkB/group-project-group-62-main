@@ -1,0 +1,38 @@
+"Daily Weather Observations for Wattamolla [Wind Only], New South Wales for September 2021"
+"Prepared at 13:00 UTC on Thursday 21 October 2021   IDCJDW2189.202109"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Wattamolla AWS {station 066208}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-09-1,,,,,,WNW,33,07:16,,,,W,17,,,,,SSE,7,
+,2021-09-2,,,,,,NNE,56,14:17,,,,N,22,,,,,NNE,31,
+,2021-09-3,,,,,,NNE,50,15:47,,,,N,19,,,,,NNE,31,
+,2021-09-4,,,,,,N,33,10:41,,,,N,19,,,,,NNW,11,
+,2021-09-5,,,,,,S,69,18:00,,,,WNW,22,,,,,WSW,30,
+,2021-09-6,,,,,,SSE,70,13:32,,,,SSW,22,,,,,SSE,48,
+,2021-09-7,,,,,,WSW,46,10:18,,,,WSW,9,,,,,WSW,19,
+,2021-09-8,,,,,,NNE,35,14:30,,,,ESE,7,,,,,NE,20,
+,2021-09-9,,,,,,WNW,37,13:34,,,,WSW,13,,,,,WNW,17,
+,2021-09-10,,,,,,SSE,63,10:08,,,,E,7,,,,,SSE,22,
+,2021-09-11,,,,,,NNW,44,14:15,,,,NW,26,,,,,NW,20,
+,2021-09-12,,,,,,WNW,63,13:52,,,,NNW,22,,,,,WNW,37,
+,2021-09-13,,,,,,SSE,74,22:35,,,,SSE,31,,,,,S,52,
+,2021-09-14,,,,,,SSE,91,00:27,,,,S,54,,,,,S,59,
+,2021-09-15,,,,,,S,69,02:30,,,,S,43,,,,,SSE,54,
+,2021-09-16,,,,,,S,57,08:37,,,,S,43,,,,,SSE,31,
+,2021-09-17,,,,,,NE,43,13:12,,,,NNW,13,,,,,NNE,26,
+,2021-09-18,,,,,,WNW,41,21:03,,,,N,15,,,,,S,4,
+,2021-09-19,,,,,,WNW,44,11:22,,,,N,15,,,,,WNW,17,
+,2021-09-20,,,,,,SW,63,18:39,,,,N,19,,,,,NW,28,
+,2021-09-21,,,,,,S,94,13:38,,,,S,43,,,,,S,65,
+,2021-09-22,,,,,,S,72,00:34,,,,S,26,,,,,SSE,24,
+,2021-09-23,,,,,,NE,31,14:42,,,,WNW,9,,,,,NE,20,
+,2021-09-24,,,,,,W,37,15:24,,,,NW,17,,,,,W,15,
+,2021-09-25,,,,,,S,67,13:28,,,,S,22,,,,,SSE,37,
+,2021-09-26,,,,,,SSE,72,05:24,,,,S,54,,,,,SSE,43,
+,2021-09-27,,,,,,NE,37,16:29,,,,N,17,,,,,NE,20,
+,2021-09-28,,,,,,N,44,15:51,,,,N,20,,,,,NNE,28,
+,2021-09-29,,,,,,N,35,08:42,,,,N,22,,,,,N,9,
+,2021-09-30,,,,,,NE,37,13:38,,,,N,15,,,,,NNE,24,

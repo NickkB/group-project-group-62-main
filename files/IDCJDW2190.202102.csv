@@ -1,0 +1,36 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for February 2021"
+"Prepared at 13:00 UTC on Friday  8 October 2021   IDCJDW2190.202102"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-02-1,,,,,,ENE,57,21:35,,,,ENE,33,,,,,ENE,31,
+,2021-02-2,,,,,,ENE,59,02:50,,,,ENE,28,,,,,E,22,
+,2021-02-3,,,,,,ENE,46,21:28,,,,E,15,,,,,ENE,24,
+,2021-02-4,,,,,,E,50,16:46,,,,E,35,,,,,E,35,
+,2021-02-5,,,,,,E,54,21:28,,,,E,30,,,,,E,39,
+,2021-02-6,,,,,,ENE,57,13:39,,,,E,31,,,,,ENE,39,
+,2021-02-7,,,,,,,,,,,,NNE,19,,,,,N,19,
+,2021-02-8,,,,,,S,65,20:47,,,,SW,19,,,,,S,37,
+,2021-02-9,,,,,,S,80,02:38,,,,S,28,,,,,SSW,31,
+,2021-02-10,,,,,,SSW,69,02:21,,,,SSW,31,,,,,E,30,
+,2021-02-11,,,,,,E,46,10:22,,,,ESE,20,,,,,ESE,24,
+,2021-02-12,,,,,,ENE,46,22:34,,,,ENE,15,,,,,ENE,20,
+,2021-02-13,,,,,,E,41,23:12,,,,NW,6,,,,,NNE,17,
+,2021-02-14,,,,,,N,24,01:18,,,,SSW,6,,,,,E,15,
+,2021-02-15,,,,,,E,48,22:53,,,,SSE,7,,,,,ESE,19,
+,2021-02-16,,,,,,E,76,09:21,,,,ESE,44,,,,,ESE,33,
+,2021-02-17,,,,,,ESE,69,01:57,,,,ESE,46,,,,,E,43,
+,2021-02-18,,,,,,E,70,00:03,,,,ESE,37,,,,,E,46,
+,2021-02-19,,,,,,E,67,15:22,,,,E,46,,,,,E,46,
+,2021-02-20,,,,,,ENE,69,06:57,,,,ENE,35,,,,,ENE,41,
+,2021-02-21,,,,,,E,94,08:03,,,,E,63,,,,,E,35,
+,2021-02-22,,,,,,N,89,02:21,,,,NW,24,,,,,NW,39,
+,2021-02-23,,,,,,WSW,65,03:00,,,,WSW,31,,,,,SSW,31,
+,2021-02-24,,,,,,E,57,21:44,,,,ESE,17,,,,,ESE,31,
+,2021-02-25,,,,,,E,52,23:52,,,,E,33,,,,,E,33,
+,2021-02-26,,,,,,E,28,00:56,,,,N,11,,,,,NNE,17,
+,2021-02-27,,,,,,E,26,15:37,,,,SW,7,,,,,E,17,
+,2021-02-28,,,,,,N,31,18:35,,,,SSE,2,,,,,E,20,

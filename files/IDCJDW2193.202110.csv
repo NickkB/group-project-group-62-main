@@ -1,0 +1,34 @@
+"Daily Weather Observations for Little Bay [Wind Only], New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2193.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Little Bay (The Coast Golf Club) {station 066051}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,,,,,,SW,44,17:43,,,, ,Calm,,,,,ENE,17,
+,2021-10-2,,,,,,W,31,20:17,,,,WNW,6,,,,,NE,6,
+,2021-10-3,,,,,,W,31,13:00,,,,W,9,,,,,W,17,
+,2021-10-4,,,,,,WSW,33,14:43,,,,ENE,4,,,,,WSW,17,
+,2021-10-5,,,,,,W,50,11:54,,,,WSW,13,,,,,WSW,24,
+,2021-10-6,,,,,,WSW,37,03:09,,,,W,17,,,,,NE,13,
+,2021-10-7,,,,,,S,67,16:41,,,, ,Calm,,,,,NNE,24,
+,2021-10-8,,,,,,NNE,43,17:32,,,,NE,7,,,,,NNE,28,
+,2021-10-9,,,,,,NNE,35,19:24,,,,WNW,6,,,,,NE,17,
+,2021-10-10,,,,,,SSW,61,13:43,,,,NNW,4,,,,,S,44,
+,2021-10-11,,,,,,S,59,00:46,,,,SSW,24,,,,,S,24,
+,2021-10-12,,,,,,SE,43,07:08,,,,E,22,,,,,ESE,20,
+,2021-10-13,,,,,,NNE,57,19:12,,,,E,20,,,,,NE,28,
+,2021-10-14,,,,,,NNE,52,01:56,,,,N,15,,,,,NNE,31,
+,2021-10-15,,,,,,NW,63,12:23,,,,W,19,,,,,WNW,20,
+,2021-10-16,,,,,,W,57,15:30,,,,W,20,,,,,WSW,31,
+,2021-10-17,,,,,,ENE,28,18:28,,,,W,13,,,,,E,15,
+,2021-10-18,,,,,,NE,33,16:14,,,,WNW,9,,,,,ENE,13,
+,2021-10-19,,,,,,S,61,14:56,,,,W,13,,,,,S,39,
+,2021-10-20,,,,,,SSE,22,15:27,,,,W,11,,,,,SSE,15,
+,2021-10-21,,,,,,E,24,16:28,,,,W,4,,,,,ENE,11,
+,2021-10-22,,,,,,N,22,21:09,,,,SSW,13,,,,,E,13,
+,2021-10-23,,,,,,NNE,33,17:08,,,,NNE,19,,,,,NE,19,
+,2021-10-24,,,,,,SSW,52,03:24,,,,S,22,,,,,SE,24,
+,2021-10-25,,,,,,SSE,33,15:41,,,,WNW,11,,,,,SE,22,
+,2021-10-26,,,,,,,,,,,,WSW,6,,,,,ESE,17,

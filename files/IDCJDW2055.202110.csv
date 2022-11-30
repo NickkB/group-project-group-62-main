@@ -1,0 +1,32 @@
+"Daily Weather Observations for Gundagai, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2055.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Gundagai (Nangus Rd) {station 073141}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,9.0,20.5,11.2,,,,,,16.4,71,2,E,7,,,,,,,
+,2021-10-2,12.8,20.5,11.6,,,,,,15.2,87,7, ,Calm,,,,,,,
+,2021-10-3,9.3,20.2,0.7,,,,,,14.0,89,7, ,Calm,,,,,,,
+,2021-10-4,,19.0,0.4,,,,,,13.0,75,4, ,,,,,,,,
+,2021-10-5,8.5,,2.2,,,,,,11.0,75,6,SW,9,,,,,,,
+,2021-10-6,,21.0,0,,,,,,,,,,,,,,,,,
+,2021-10-7,5.0,20.5,0,,,,,,15.0,68,0, ,Calm,,,,,,,
+,2021-10-8,3.0,20.0,0,,,,,,9.5,70,0, ,Calm,,,,,,,
+,2021-10-9,5.2,26.5,0,,,,,,11.5,76,3, ,Calm,,,,,,,
+,2021-10-10,10.7,,0,,,,,,15.0,89,5, ,Calm,,,,,,,
+,2021-10-11,,18.5,0,,,,,,,,,,,,,,,,,
+,2021-10-12,9.5,,0,,,,,,14.3,57,6,NE,7,,,,,,,
+,2021-10-13,,19.5,,,,,,,,,,,,,,,,,,
+,2021-10-14,11.0,19.7,17.0,,,,,,12.5,94,7, ,Calm,,,,,,,
+,2021-10-15,7.2,,7.0,,,,,,12.0,79,7, ,Calm,,,,,,,
+,2021-10-16,,18.0,0,,,,,,,,,,,,,,,,,
+,2021-10-17,3.5,19.5,0,,,,,,9.5,93,0, ,Calm,,,,,,,
+,2021-10-18,5.0,23.5,0,,,,,,11.5,76,0, ,Calm,,,,,,,
+,2021-10-19,9.8,21.5,0,,,,,,13.5,74,0, ,Calm,,,,,,,
+,2021-10-20,5.0,24.0,0,,,,,,11.5,76,0, ,Calm,,,,,,,
+,2021-10-21,7.8,23.4,0,,,,,,15.3,76,3,NE,6,,,,,,,
+,2021-10-22,10.9,26.5,0,,,,,,17.7,69,0,ENE,7,,,,,,,
+,2021-10-23,10.5,26.0,0,,,,,,17.0,78,6, ,Calm,,,,,,,
+,2021-10-24,9.5,20.5,0,,,,,,10.4,85,8,NW,15,,,,,,,
+,2021-10-25,3.1,20.5,0,,,,,,8.7,90,0,SW,6,,,,,,,
+,2021-10-26,3.5,,0,,,,,,11.5,96,0,NE,11,,,,,,,

@@ -1,0 +1,40 @@
+"Daily Weather Observations for Wollongong, New South Wales for July 2021"
+"Prepared at 13:00 UTC on Sunday 17 October 2021   IDCJDW2146.202107"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Shellharbour Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-07-1,13.5,19.1,2.4,,,NW,26,01:30,16.1,87,7, ,Calm,1025.1,18.3,77,7,E,2,1021.5
+,2021-07-2,12.2,20.4,1.8,,,NW,28,21:28,16.1,71,,S,9,1018.2,19.4,72,,NE,19,1015.7
+,2021-07-3,12.7,20.6,0.2,,,W,48,23:38,16.7,61,,WSW,4,1018.3,18.7,60,8,NNE,13,1016.0
+,2021-07-4,9.8,17.9,0,,,WNW,46,10:21,12.9,48,,W,24,1021.1,17.5,38,,NW,11,1018.9
+,2021-07-5,10.7,17.5,0,,,W,50,00:05,13.7,54,,WSW,20,1020.8,16.9,38,,SW,13,1018.4
+,2021-07-6,8.8,16.7,0,,,S,26,15:47,11.5,66,,W,7,1021.8,15.8,58,1,SSE,13,1020.2
+,2021-07-7,8.1,16.9,0,,,S,19,09:54,13.6,65,,WSW,9,1026.0,16.3,55,6,ESE,9,1023.8
+,2021-07-8,8.0,18.8,0,,,NE,26,13:45,13.4,69,5,WNW,6,1024.3,18.1,55,8,NNE,17,1020.0
+,2021-07-9,11.1,16.1,0,,,S,39,17:53,13.5,74,8,SW,13,1015.2,14.5,88,8,SSE,24,1012.3
+,2021-07-10,12.2,16.6,19.2,,,SSW,56,15:01,13.0,87,8,SW,22,1018.4,16.1,73,8,SSW,35,1020.0
+,2021-07-11,11.5,17.8,3.4,,,SSW,39,08:45,14.0,84,8,SSW,24,1027.3,17.0,71,,S,22,1024.9
+,2021-07-12,10.3,19.2,0.4,,,NNE,30,14:29,15.0,77,, ,Calm,1024.1,18.5,58,6,N,19,1019.4
+,2021-07-13,11.0,21.0,0,,,WNW,31,10:38,16.0,64,,NW,9,1018.6,19.5,52,,N,15,1015.1
+,2021-07-14,13.8,18.8,0,,,NNE,35,06:10,16.0,52,8,N,13,1013.5,17.1,54,8,N,17,1009.0
+,2021-07-15,13.4,23.2,0,,,W,33,21:23,18.7,65,,NNW,15,1006.0,21.2,59,,NE,15,1001.4
+,2021-07-16,13.1,20.1,0.2,,,NW,96,15:13,16.5,62,,N,19,996.0,17.2,44,,WNW,52,991.5
+,2021-07-17,11.9,15.9,1.6,,,,,,13.2,54,,WNW,46,995.6,14.3,44,,WNW,35,994.3
+,2021-07-18,,20.1,,,,W,63,00:22,15.9,50,,WSW,15,1011.2,19.1,41,,WSW,17,1012.7
+,2021-07-19,9.9,17.9,0,,,WNW,30,22:20,13.6,62,4,W,2,1017.6,16.9,42,8,WNW,13,1013.7
+,2021-07-20,10.2,17.5,0,,,WNW,61,22:09,13.7,50,4,SW,15,1009.4,16.0,49,8,WNW,13,1005.2
+,2021-07-21,11.3,15.8,0,,,SSW,63,10:35,12.7,43,2,SW,35,1014.1,15.5,42,,SSW,31,1015.5
+,2021-07-22,8.2,18.4,0,,,N,44,22:44,14.6,53,,NW,7,1018.6,18.2,33,,N,15,1013.5
+,2021-07-23,12.7,17.3,0,,,NNW,57,05:51,14.0,59,8,NNW,20,1010.1,14.9,69,8,NNE,13,1006.0
+,2021-07-24,12.1,18.5,1.2,,,WNW,69,13:52,14.8,71,8,W,13,1002.1,17.0,39,,WNW,20,1001.0
+,2021-07-25,11.6,17.6,0,,,NW,102,08:41,12.9,42,,WNW,69,1002.3,14.9,34,8,WSW,24,1007.8
+,2021-07-26,11.9,20.4,0,,,WNW,72,18:32,17.4,51,5,W,11,1014.1,19.9,40,3,W,22,1013.3
+,2021-07-27,14.8,21.3,0,,,SW,59,00:24,18.3,50,,NW,9,1018.1,21.0,44,,NNW,17,1014.4
+,2021-07-28,16.6,26.1,0,,,NW,106,17:36,17.7,55,,NE,30,1007.4,23.1,31,7,W,19,1002.8
+,2021-07-29,11.9,19.2,0,,,WNW,69,05:38,14.2,45,,WSW,20,1013.5,18.9,30,,W,13,1014.0
+,2021-07-30,9.2,18.6,0,,,NNW,26,22:57,14.8,46,, ,Calm,1020.6,17.7,46,,NNE,15,1017.1
+,2021-07-31,11.9,22.7,0,,,NE,41,13:28,18.4,30,7,N,17,1014.1,20.3,51,6,NE,31,1008.1

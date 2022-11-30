@@ -1,0 +1,39 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for May 2021"
+"Prepared at 13:00 UTC on Tuesday 19 October 2021   IDCJDW2190.202105"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-05-1,,,,,,E,43,21:30,,,,E,28,,,,,E,30,
+,2021-05-2,,,,,,E,50,08:04,,,,E,39,,,,,E,31,
+,2021-05-3,,,,,,ENE,44,23:43,,,,ENE,30,,,,,ENE,26,
+,2021-05-4,,,,,,E,59,22:25,,,,ENE,30,,,,,ENE,30,
+,2021-05-5,,,,,,E,89,15:26,,,,ENE,35,,,,,E,52,
+,2021-05-6,,,,,,ENE,81,06:14,,,,ENE,52,,,,,E,31,
+,2021-05-7,,,,,,NW,57,14:14,,,,NW,24,,,,,NW,37,
+,2021-05-8,,,,,,NW,52,05:34,,,,NW,26,,,,,NW,24,
+,2021-05-9,,,,,,NW,28,23:54,,,,NNW,9,,,,,E,9,
+,2021-05-10,,,,,,NW,31,23:22,,,,NW,13,,,,,WNW,17,
+,2021-05-11,,,,,,NW,31,23:58,,,,W,17,,,,,SW,4,
+,2021-05-12,,,,,,E,54,19:46,,,,E,22,,,,,ENE,31,
+,2021-05-13,,,,,,ENE,76,03:42,,,,E,28,,,,,NNE,7,
+,2021-05-14,,,,,,WSW,52,05:15,,,,WSW,33,,,,,WSW,41,
+,2021-05-15,,,,,,WSW,52,22:28,,,,WSW,30,,,,,WSW,17,
+,2021-05-16,,,,,,W,63,08:19,,,,WSW,30,,,,,SSW,39,
+,2021-05-17,,,,,,SW,63,16:41,,,,WNW,24,,,,,WSW,44,
+,2021-05-18,,,,,,SSW,44,23:41,,,,S,19,,,,,SSW,22,
+,2021-05-19,,,,,,S,39,03:39,,,,S,7,,,,,SSW,19,
+,2021-05-20,,,,,,ENE,28,12:12,,,,E,19,,,,,E,15,
+,2021-05-21,,,,,,ESE,39,22:46,,,,S,9,,,,,E,20,
+,2021-05-22,,,,,,ESE,50,07:46,,,,ESE,33,,,,,ESE,20,
+,2021-05-23,,,,,,E,59,14:47,,,,SSE,11,,,,,ESE,24,
+,2021-05-24,,,,,,E,69,07:37,,,,ESE,24,,,,,SE,20,
+,2021-05-25,,,,,,SW,70,02:39,,,,S,15,,,,,S,24,
+,2021-05-26,,,,,,WNW,28,22:15,,,,NNW,9,,,,,W,15,
+,2021-05-27,,,,,,SW,48,16:05,,,,SW,28,,,,,SSW,26,
+,2021-05-28,,,,,,SW,106,17:37,,,,SW,44,,,,,SW,70,
+,2021-05-29,,,,,,SSW,102,00:58,,,,SSW,59,,,,,SSW,57,
+,2021-05-30,,,,,,SSW,80,00:33,,,,SSW,50,,,,,SSW,48,
+,2021-05-31,,,,,,SSW,76,02:09,,,,SSW,41,,,,,SSW,43,

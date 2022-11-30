@@ -1,0 +1,39 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for January 2021"
+"Prepared at 13:01 UTC on Saturday  9 October 2021   IDCJDW2191.202101"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-01-1,,,,,,SSE,39,02:39,,,,S,20,,,,,SSE,20,
+,2021-01-2,,,,,,ENE,35,20:12,,,,SW,24,,,,,S,15,
+,2021-01-3,,,,,,NE,44,14:18,,,,ENE,22,,,,,NE,37,
+,2021-01-4,,,,,,WNW,83,15:32,,,, ,Calm,,,,,ENE,15,
+,2021-01-5,,,,,,SSW,44,21:53,,,,WNW,11,,,,,E,19,
+,2021-01-6,,,,,,S,50,12:42,,,,SSW,30,,,,,S,35,
+,2021-01-7,,,,,,SSW,48,09:28,,,,SSW,33,,,,,SSE,22,
+,2021-01-8,,,,,,SSE,43,01:55,,,,SSE,28,,,,,SSE,26,
+,2021-01-9,,,,,,SE,31,23:26,,,,SSE,20,,,,,SE,15,
+,2021-01-10,,,,,,ENE,35,14:34,,,,NW,7,,,,,ENE,28,
+,2021-01-11,,,,,,NE,46,16:37,,,,NW,13,,,,,NE,33,
+,2021-01-12,,,,,,NE,50,16:21,,,,N,17,,,,,NE,31,
+,2021-01-13,,,,,,NE,46,16:09,,,,WSW,6,,,,,NE,30,
+,2021-01-14,,,,,,S,59,17:48,,,,N,15,,,,,NE,37,
+,2021-01-15,,,,,,NNE,52,17:26,,,,SW,26,,,,,ENE,30,
+,2021-01-16,,,,,,WSW,74,23:58,,,,W,30,,,,,E,20,
+,2021-01-17,,,,,,S,41,11:44,,,,SW,15,,,,,SE,26,
+,2021-01-18,,,,,,ENE,44,16:10,,,,NNW,15,,,,,ENE,31,
+,2021-01-19,,,,,,S,57,11:48,,,,S,33,,,,,S,35,
+,2021-01-20,,,,,,S,37,00:30,,,,SSE,19,,,,,S,20,
+,2021-01-21,,,,,,NE,48,20:59,,,,WNW,13,,,,,ENE,31,
+,2021-01-22,,,,,,NE,56,17:29,,,,NNE,13,,,,,NE,33,
+,2021-01-23,,,,,,SSW,39,07:39,,,,SSW,28,,,,,E,17,
+,2021-01-24,,,,,,NE,56,15:29,,,,NNW,6,,,,,NE,39,
+,2021-01-25,,,,,,NE,57,18:42,,,,NE,17,,,,,NE,30,
+,2021-01-26,,,,,,SSW,59,20:36,,,,NNW,9,,,,,NE,37,
+,2021-01-27,,,,,,SSW,61,04:02,,,,S,35,,,,,S,41,
+,2021-01-28,,,,,,SSE,48,09:48,,,,SE,31,,,,,SSE,28,
+,2021-01-29,,,,,,ENE,50,21:45,,,,ENE,26,,,,,ENE,30,
+,2021-01-30,,,,,,NE,56,01:24,,,,NNE,20,,,,,NE,28,
+,2021-01-31,,,,,,SSW,48,03:07,,,,S,28,,,,,S,22,

@@ -1,0 +1,34 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2191.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,,,,,,W,52,17:40,,,,NNW,9,,,,,E,30,
+,2021-10-2,,,,,,W,33,20:12,,,,N,9,,,,,ENE,9,
+,2021-10-3,,,,,,W,48,12:56,,,,WNW,13,,,,,WNW,35,
+,2021-10-4,,,,,,W,48,14:12,,,, ,Calm,,,,,WSW,28,
+,2021-10-5,,,,,,W,72,11:38,,,,WSW,22,,,,,W,46,
+,2021-10-6,,,,,,W,52,02:57,,,,W,24,,,,,ENE,28,
+,2021-10-7,,,,,,S,80,16:33,,,,WNW,9,,,,,NW,31,
+,2021-10-8,,,,,,ENE,46,15:14,,,,NW,9,,,,,NE,35,
+,2021-10-9,,,,,,NE,41,17:49,,,,NNW,11,,,,,ENE,24,
+,2021-10-10,,,,,,SSW,70,12:54,,,,WNW,9,,,,,SSW,48,
+,2021-10-11,,,,,,SSW,69,04:18,,,,SW,31,,,,,S,22,
+,2021-10-12,,,,,,E,44,09:42,,,,SE,24,,,,,ESE,22,
+,2021-10-13,,,,,,NE,57,18:48,,,,E,20,,,,,ENE,33,
+,2021-10-14,,,,,,NW,70,16:00,,,,N,17,,,,,NE,44,
+,2021-10-15,,,,,,NW,74,12:22,,,,W,37,,,,,NW,43,
+,2021-10-16,,,,,,WNW,81,14:41,,,,WNW,30,,,,,W,56,
+,2021-10-17,,,,,,W,30,08:16,,,,WNW,19,,,,,E,19,
+,2021-10-18,,,,,,NE,39,15:44,,,,NW,13,,,,,E,22,
+,2021-10-19,,,,,,SSW,74,15:18,,,,W,17,,,,,S,44,
+,2021-10-20,,,,,,S,33,14:31,,,,W,17,,,,,SSE,20,
+,2021-10-21,,,,,,E,28,14:44,,,,NW,7,,,,,E,17,
+,2021-10-22,,,,,,ESE,28,12:05,,,,SSW,19,,,,,E,19,
+,2021-10-23,,,,,,NE,41,16:10,,,,NE,19,,,,,ENE,28,
+,2021-10-24,,,,,,SSW,59,03:13,,,,SSW,28,,,,,SE,28,
+,2021-10-25,,,,,,SSE,37,15:18,,,,WNW,22,,,,,SE,28,
+,2021-10-26,,,,,,,,,,,,W,7,,,,,SE,20,

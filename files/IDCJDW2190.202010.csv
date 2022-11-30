@@ -1,0 +1,39 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for October 2020"
+"Prepared at 13:00 UTC on Tuesday 12 October 2021   IDCJDW2190.202010"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-10-1,,,,,,WSW,70,17:25,,,,NNE,17,,,,,WNW,13,
+,2020-10-2,,,,,,S,35,11:05,,,,S,20,,,,,S,17,
+,2020-10-3,,,,,,ESE,35,05:44,,,,E,26,,,,,E,20,
+,2020-10-4,,,,,,E,52,08:25,,,,E,22,,,,,ENE,24,
+,2020-10-5,,,,,,ENE,48,06:15,,,,ENE,15,,,,,ENE,15,
+,2020-10-6,,,,,,E,31,21:36,,,,E,19,,,,,E,19,
+,2020-10-7,,,,,,E,24,11:59,,,,E,9,,,,,E,15,
+,2020-10-8,,,,,,N,31,20:14,,,,N,7,,,,,NW,15,
+,2020-10-9,,,,,,NNE,37,22:45,,,,N,17,,,,,N,15,
+,2020-10-10,,,,,,SSW,46,02:28,,,,N,11,,,,,WNW,13,
+,2020-10-11,,,,,,E,39,11:01,,,,SE,13,,,,,ESE,15,
+,2020-10-12,,,,,,E,33,21:37,,,,E,22,,,,,E,20,
+,2020-10-13,,,,,,E,37,13:38,,,,ESE,20,,,,,SE,17,
+,2020-10-14,,,,,,S,39,09:10,,,,S,17,,,,,SSW,24,
+,2020-10-15,,,,,,SSW,37,09:05,,,,SW,20,,,,,WSW,11,
+,2020-10-16,,,,,,NW,26,10:03,,,,NW,15,,,,,WNW,15,
+,2020-10-17,,,,,,NW,44,11:41,,,,NW,26,,,,,W,20,
+,2020-10-18,,,,,,NW,61,11:22,,,,NW,26,,,,,NW,30,
+,2020-10-19,,,,,,NW,41,11:32,,,,NW,15,,,,,NW,15,
+,2020-10-20,,,,,,E,56,02:09,,,,SE,17,,,,,SE,13,
+,2020-10-21,,,,,,E,37,15:59,,,,E,24,,,,,E,20,
+,2020-10-22,,,,,,ESE,30,00:56,,,,NW,15,,,,,SE,6,
+,2020-10-23,,,,,,ENE,31,07:00,,,,ENE,24,,,,,ENE,17,
+,2020-10-24,,,,,,NNE,48,04:13,,,,WNW,7,,,,,NNE,19,
+,2020-10-25,,,,,,NW,41,10:38,,,,NW,13,,,,,NNW,11,
+,2020-10-26,,,,,,E,39,18:34,,,,ENE,9,,,,,ENE,22,
+,2020-10-27,,,,,,NW,37,04:35,,,,W,15,,,,,WSW,9,
+,2020-10-28,,,,,,NNE,30,22:05,,,,WNW,11,,,,,ENE,17,
+,2020-10-29,,,,,,W,65,11:14,,,,NNE,13,,,,, ,Calm,
+,2020-10-30,,,,,,WNW,56,00:26,,,,WNW,26,,,,,W,26,
+,2020-10-31,,,,,,WNW,89,22:36,,,,NNE,13,,,,,N,15,

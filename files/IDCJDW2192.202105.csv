@@ -1,0 +1,39 @@
+"Daily Weather Observations for North Head [Wind Only], New South Wales for May 2021"
+"Prepared at 13:01 UTC on Tuesday 19 October 2021   IDCJDW2192.202105"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Manly (North Head) {station 066197}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-05-1,,,,,,ENE,30,18:40,,,,WSW,6,,,,,ENE,11,
+,2021-05-2,,,,,,ENE,28,14:33,,,,N,7,,,,,ENE,17,
+,2021-05-3,,,,,,NNE,24,18:14,,,,W,7,,,,,NNE,15,
+,2021-05-4,,,,,,WNW,30,10:46,,,,WSW,6,,,,,WNW,13,
+,2021-05-5,,,,,,SSE,39,13:36,,,,WSW,15,,,,,SW,17,
+,2021-05-6,,,,,,SSE,83,07:46,,,,SSE,50,,,,,SSE,15,
+,2021-05-7,,,,,,S,35,12:28,,,,SSE,17,,,,,S,20,
+,2021-05-8,,,,,,W,17,04:09,,,,WNW,6,,,,,WNW,4,
+,2021-05-9,,,,,,WSW,31,06:31,,,,W,7,,,,,NW,4,
+,2021-05-10,,,,,,W,28,15:04,,,,WNW,13,,,,,WNW,15,
+,2021-05-11,,,,,,WSW,26,15:22,,,,NW,7,,,,,NNW,9,
+,2021-05-12,,,,,,S,37,10:32,,,,SW,11,,,,,S,17,
+,2021-05-13,,,,,,W,31,22:33,,,,W,9,,,,,NNE,7,
+,2021-05-14,,,,,,W,43,18:42,,,,W,19,,,,,W,24,
+,2021-05-15,,,,,,WSW,59,15:27,,,,NW,9,,,,,WNW,30,
+,2021-05-16,,,,,,W,48,23:14,,,,W,19,,,,,WNW,11,
+,2021-05-17,,,,,,WSW,44,08:44,,,,W,22,,,,,SSE,19,
+,2021-05-18,,,,,,WNW,28,05:22,,,,W,15,,,,,ENE,9,
+,2021-05-19,,,,,,W,24,07:02,,,,W,17,,,,,ENE,9,
+,2021-05-20,,,,,,SSE,30,20:05,,,,W,13,,,,,S,15,
+,2021-05-21,,,,,,S,46,09:10,,,,SW,11,,,,,SSE,22,
+,2021-05-22,,,,,,W,22,07:19,,,,WNW,17,,,,,S,13,
+,2021-05-23,,,,,,S,30,14:45,,,,W,13,,,,,S,17,
+,2021-05-24,,,,,,ENE,35,20:50,,,,WNW,9,,,,,ESE,7,
+,2021-05-25,,,,,,NNE,39,18:40,,,,NNW,7,,,,,NNE,19,
+,2021-05-26,,,,,,W,48,19:59,,,,WSW,17,,,,,WSW,13,
+,2021-05-27,,,,,,W,43,08:00,,,,W,24,,,,,WSW,19,
+,2021-05-28,,,,,,SSW,56,12:47,,,,WSW,26,,,,,S,24,
+,2021-05-29,,,,,,WSW,52,16:26,,,,W,24,,,,,SW,24,
+,2021-05-30,,,,,,SW,44,10:23,,,,WSW,20,,,,,SW,13,
+,2021-05-31,,,,,,W,22,06:57,,,,WNW,15,,,,,SE,7,

@@ -1,0 +1,34 @@
+"Daily Weather Observations for Newcastle, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2097.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Nobbys Head, but cloud from Newcastle University."
+"Temperature, humidity, wind and rainfall observations are from Newcastle Nobbys Signal Station AWS {station 061055}"
+"Cloud observations are from Newcastle University {station 061390}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,15.6,24.4,0.2,,,WNW,56,05:41,17.4,76,,ENE,20,,19.6,74,,ENE,26,
+,2021-10-2,13.7,23.7,1.2,,,WNW,57,16:21,19.4,66,,W,15,,22.7,48,,NW,22,
+,2021-10-3,15.1,24.0,0,,,WNW,35,07:02,18.4,70,,NW,24,,19.9,76,,E,19,
+,2021-10-4,16.7,27.4,0,,,NW,65,17:15,19.3,72,,N,7,,26.5,39,,WNW,43,
+,2021-10-5,14.3,22.8,0,,,W,65,12:53,17.5,44,,WNW,26,,22.3,26,,WSW,37,
+,2021-10-6,11.7,21.2,0,,,ENE,37,16:21,16.5,46,,WNW,19,,19.4,46,,E,24,
+,2021-10-7,12.3,28.8,0,,,SSW,81,18:41,17.1,48,,NW,24,,28.2,22,,NW,30,
+,2021-10-8,16.5,20.4,0,,,SSE,46,23:01,17.6,63,,E,15,,18.7,66,,ENE,28,
+,2021-10-9,13.6,24.4,0,,,ENE,41,15:20,17.6,74,,NW,13,,20.6,74,,ENE,26,
+,2021-10-10,17.1,32.0,0,,,SSW,78,15:10,20.5,61,,N,11,,31.0,34,,WNW,39,
+,2021-10-11,12.5,16.4,21.0,,,S,59,07:07,12.7,96,,SSW,33,,13.3,93,,SSW,20,
+,2021-10-12,12.3,17.4,10.4,,,ESE,56,12:36,16.1,66,,ESE,30,,16.7,69,,SE,28,
+,2021-10-13,14.1,19.0,16.2,,,NE,43,15:55,16.2,89,,NE,6,,18.1,74,,NE,28,
+,2021-10-14,16.2,22.8,1.4,,,SE,52,15:28,19.0,81,,NNE,17,,21.0,79,,ENE,31,
+,2021-10-15,16.6,22.3,0.8,,,WNW,78,13:32,17.8,78,,SSW,20,,21.4,37,,WNW,43,
+,2021-10-16,12.4,21.8,0,,,WNW,80,11:21,15.9,58,,WNW,43,,21.1,42,,WNW,52,
+,2021-10-17,12.4,21.4,0,,,WNW,30,23:30,16.9,54,,WNW,20,,18.8,53,,SE,24,
+,2021-10-18,12.1,22.3,0,,,NE,28,18:24,17.9,68,,WNW,9,,19.9,68,,E,19,
+,2021-10-19,14.3,25.1,0,,,S,65,17:01,20.2,67,,SSE,4,,21.3,66,,ESE,19,
+,2021-10-20,12.5,19.1,3.6,,,S,44,23:24,16.1,60,,SSW,15,,18.3,61,,SSE,22,
+,2021-10-21,14.6,21.0,0,,,S,30,07:57,17.4,84,,S,22,,20.2,75,,SE,20,
+,2021-10-22,17.2,21.8,0,,,E,24,17:12,19.4,86,,S,15,,21.2,75,,ESE,19,
+,2021-10-23,16.8,24.7,0,,,ENE,56,21:11,18.7,88,,NW,13,,21.6,83,,ENE,26,
+,2021-10-24,17.9,19.8,2.4,,,SSW,54,06:47,18.3,86,,S,31,,19.0,68,,SSE,30,
+,2021-10-25,14.3,21.8,0,,,SE,33,16:24,18.9,61,,WNW,6,,19.9,57,,ESE,26,
+,2021-10-26,15.3,,0,,,,,,17.7,68,,S,15,,19.5,60,,ESE,22,

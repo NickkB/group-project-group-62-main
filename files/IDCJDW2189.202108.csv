@@ -1,0 +1,39 @@
+"Daily Weather Observations for Wattamolla [Wind Only], New South Wales for August 2021"
+"Prepared at 16:00 UTC on Saturday 16 October 2021   IDCJDW2189.202108"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Wattamolla AWS {station 066208}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-08-1,,,,,,S,67,17:38,,,,NNW,17,,,,,W,24,
+,2021-08-2,,,,,,N,39,23:31,,,,SSW,2,,,,,NE,13,
+,2021-08-3,,,,,,WNW,44,12:00,,,,NW,11,,,,,WSW,20,
+,2021-08-4,,,,,,WNW,67,09:26,,,,WNW,35,,,,,W,35,
+,2021-08-5,,,,,,WNW,54,03:49,,,,W,33,,,,,WSW,19,
+,2021-08-6,,,,,,W,48,07:45,,,,W,24,,,,,ENE,13,
+,2021-08-7,,,,,,W,33,00:29,,,,W,15,,,,,W,11,
+,2021-08-8,,,,,,S,67,07:16,,,,S,20,,,,,SSE,33,
+,2021-08-9,,,,,,NNW,37,10:29,,,,NW,13,,,,,NE,20,
+,2021-08-10,,,,,,NNW,35,10:06,,,,NNW,13,,,,,NNW,15,
+,2021-08-11,,,,,,NW,44,14:27,,,,NNW,24,,,,,NNW,22,
+,2021-08-12,,,,,,W,50,03:33,,,,SW,20,,,,,SSE,15,
+,2021-08-13,,,,,,W,39,04:16,,,,W,15,,,,,NE,6,
+,2021-08-14,,,,,,NW,22,02:25,,,,S,6,,,,,E,13,
+,2021-08-15,,,,,,W,33,12:33,,,,WSW,9,,,,,SW,9,
+,2021-08-16,,,,,,W,69,20:05,,,,N,11,,,,,SSW,20,
+,2021-08-17,,,,,,W,57,02:50,,,,SW,13,,,,,SSE,15,
+,2021-08-18,,,,,,S,33,05:16,,,,S,13,,,,,ESE,11,
+,2021-08-19,,,,,,N,30,12:35,,,,NW,15,,,,,NE,17,
+,2021-08-20,,,,,,NE,31,15:11,,,,WNW,15,,,,,NE,20,
+,2021-08-21,,,,,,N,30,12:19,,,,S,7,,,,,NNW,15,
+,2021-08-22,,,,,,N,41,15:46,,,,WNW,11,,,,,N,28,
+,2021-08-23,,,,,,SSE,61,23:53,,,,NNW,22,,,,,NNW,30,
+,2021-08-24,,,,,,S,102,14:12,,,,S,41,,,,,SSW,41,
+,2021-08-25,,,,,,SSE,78,06:01,,,,SSW,33,,,,,SW,22,
+,2021-08-26,,,,,,SSE,52,17:33,,,,SSW,15,,,,,SSE,31,
+,2021-08-27,,,,,,W,33,19:51,,,,W,11,,,,,SSE,22,
+,2021-08-28,,,,,,SSE,44,11:33,,,,SSW,19,,,,,S,31,
+,2021-08-29,,,,,,N,33,11:47,,,,NNW,15,,,,,NNE,9,
+,2021-08-30,,,,,,WNW,35,01:47,,,,SW,9,,,,,ESE,11,
+,2021-08-31,,,,,,NE,33,14:17,,,,NW,15,,,,,NE,19,

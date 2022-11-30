@@ -1,0 +1,39 @@
+"Daily Weather Observations for Little Bay [Wind Only], New South Wales for December 2020"
+"Prepared at 13:01 UTC on Sunday 10 October 2021   IDCJDW2193.202012"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Little Bay (The Coast Golf Club) {station 066051}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-12-1,,,,,,SW,48,17:36,,,,N,24,,,,,NNE,33,
+,2020-12-2,,,,,,,,,,,,SSE,22,,,,,SE,20,
+,2020-12-3,,,,,,N,33,13:50,,,,NE,15,,,,,N,20,
+,2020-12-4,,,,,,S,31,21:17,,,,SSW,7,,,,,ENE,13,
+,2020-12-5,,,,,,N,43,17:55,,,,ENE,13,,,,,NNE,15,
+,2020-12-6,,,,,,WNW,41,12:48,,,,W,15,,,,,WNW,17,
+,2020-12-7,,,,,,,,,,,,NNW,11,,,,,ESE,15,
+,2020-12-8,,,,,,SW,46,23:14,,,,SSW,24,,,,,SSE,24,
+,2020-12-9,,,,,,NE,37,16:12,,,,W,11,,,,,NE,19,
+,2020-12-10,,,,,,S,61,13:42,,,,E,6,,,,,S,41,
+,2020-12-11,,,,,,SSE,52,23:45,,,,SSE,24,,,,,SSE,22,
+,2020-12-12,,,,,,ESE,39,01:56,,,,ESE,24,,,,,SSE,30,
+,2020-12-13,,,,,,ENE,37,21:21,,,,E,11,,,,,ENE,13,
+,2020-12-14,,,,,,NE,37,22:56,,,,ESE,7,,,,,SE,7,
+,2020-12-15,,,,,,NE,35,18:02,,,,E,6,,,,,ENE,9,
+,2020-12-16,,,,,,NE,44,12:55,,,,NE,20,,,,,NNE,28,
+,2020-12-17,,,,,,NNE,41,15:26,,,,NNE,20,,,,,NNE,24,
+,2020-12-18,,,,,,SSW,52,16:12,,,,NE,6,,,,,SSE,9,
+,2020-12-19,,,,,,S,43,00:16,,,,S,20,,,,,SSE,13,
+,2020-12-20,,,,,,SSW,31,03:51,,,,SSW,15,,,,,SE,9,
+,2020-12-21,,,,,,NE,28,14:01,,,,SSE,6,,,,,NE,13,
+,2020-12-22,,,,,,W,41,19:42,,,,WNW,6,,,,,WNW,24,
+,2020-12-23,,,,,,SSE,43,14:07,,,,W,15,,,,,SSE,30,
+,2020-12-24,,,,,,NNE,44,16:14,,,,NE,13,,,,,NNE,30,
+,2020-12-25,,,,,,S,41,02:26,,,,S,24,,,,,S,24,
+,2020-12-26,,,,,,NNE,52,19:29,,,,ESE,11,,,,,NE,30,
+,2020-12-27,,,,,,NNE,37,19:28,,,,W,6,,,,,NE,19,
+,2020-12-28,,,,,,SSE,48,12:31,,,,SSW,24,,,,,SSE,30,
+,2020-12-29,,,,,,SSW,48,17:12,,,,SSW,15,,,,,SSW,26,
+,2020-12-30,,,,,,SSE,43,23:03,,,,SE,28,,,,,SE,19,
+,2020-12-31,,,,,,SE,33,16:04,,,,SSE,20,,,,,SSE,15,

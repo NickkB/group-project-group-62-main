@@ -1,0 +1,38 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for April 2021"
+"Prepared at 13:00 UTC on Wednesday 20 October 2021   IDCJDW2190.202104"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-04-1,,,,,,SSW,63,06:37,,,,ESE,15,,,,,SSE,13,
+,2021-04-2,,,,,,ESE,43,10:39,,,,SE,13,,,,,E,28,
+,2021-04-3,,,,,,E,43,14:02,,,,ESE,26,,,,,E,28,
+,2021-04-4,,,,,,,,,,,,ENE,24,,,,,E,13,
+,2021-04-5,,,,,,E,35,11:10,,,,ENE,19,,,,,E,22,
+,2021-04-6,,,,,,ENE,48,14:45,,,,E,26,,,,,ENE,28,
+,2021-04-7,,,,,,ENE,61,02:45,,,,ENE,33,,,,,E,39,
+,2021-04-8,,,,,,ENE,67,08:00,,,,E,41,,,,,ENE,43,
+,2021-04-9,,,,,,ESE,44,01:32,,,,SSW,17,,,,,SW,24,
+,2021-04-10,,,,,,WNW,35,19:45,,,,WNW,24,,,,,WNW,20,
+,2021-04-11,,,,,,SW,57,19:46,,,,WSW,9,,,,,W,30,
+,2021-04-12,,,,,,WSW,61,18:11,,,,WSW,39,,,,,WSW,35,
+,2021-04-13,,,,,,SW,48,23:41,,,,SW,31,,,,,SW,28,
+,2021-04-14,,,,,,SW,39,00:07,,,,SW,20,,,,,WSW,13,
+,2021-04-15,,,,,,WNW,35,01:07,,,,W,24,,,,,W,26,
+,2021-04-16,,,,,,SW,39,16:04,,,,W,22,,,,,W,26,
+,2021-04-17,,,,,,E,44,22:47,,,,ESE,24,,,,,E,19,
+,2021-04-18,,,,,,SSW,102,20:18,,,,E,43,,,,,ENE,39,
+,2021-04-19,,,,,,S,87,00:57,,,,SSW,44,,,,,SSW,35,
+,2021-04-20,,,,,,SW,48,23:43,,,,SW,28,,,,,SW,22,
+,2021-04-21,,,,,,SSW,80,15:16,,,,NW,33,,,,,W,46,
+,2021-04-22,,,,,,W,46,20:59,,,,WSW,19,,,,,W,22,
+,2021-04-23,,,,,,W,41,00:21,,,,SW,24,,,,,SW,19,
+,2021-04-24,,,,,,SSW,31,10:39,,,,SSW,13,,,,,S,15,
+,2021-04-25,,,,,,SSW,30,17:01,,,,E,13,,,,,SSW,17,
+,2021-04-26,,,,,,SW,50,16:49,,,,SSW,22,,,,,SSW,26,
+,2021-04-27,,,,,,S,57,13:00,,,,S,22,,,,,S,35,
+,2021-04-28,,,,,,E,43,06:28,,,,E,28,,,,,E,22,
+,2021-04-29,,,,,,E,31,09:45,,,,E,22,,,,,ENE,19,
+,2021-04-30,,,,,,E,33,23:08,,,,E,22,,,,,E,20,

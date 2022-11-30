@@ -1,0 +1,38 @@
+"Daily Weather Observations for Little Bay [Wind Only], New South Wales for September 2020"
+"Prepared at 13:00 UTC on Wednesday 13 October 2021   IDCJDW2193.202009"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Little Bay (The Coast Golf Club) {station 066051}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-09-1,,,,,,NNE,37,21:24,,,,W,6,,,,,ENE,13,
+,2020-09-2,,,,,,NNE,33,14:32,,,,NW,9,,,,,N,20,
+,2020-09-3,,,,,,NNW,39,11:58,,,,NNW,17,,,,,NNW,15,
+,2020-09-4,,,,,,N,22,14:24,,,,WSW,6,,,,,NNE,6,
+,2020-09-5,,,,,,,,,,,,W,17,,,,,ESE,7,
+,2020-09-6,,,,,,,,,,,,ENE,11,,,,,ENE,13,
+,2020-09-7,,,,,,,,,,,,NNW,6,,,,,NNE,22,
+,2020-09-8,,,,,,NNE,35,12:40,,,,NNE,9,,,,,NNE,26,
+,2020-09-9,,,,,,SSW,52,03:48,,,,SSE,28,,,,,SSE,24,
+,2020-09-10,,,,,,SSE,41,09:30,,,,SSE,28,,,,,SSE,20,
+,2020-09-11,,,,,,ESE,35,01:46,,,,ESE,11,,,,,NE,19,
+,2020-09-12,,,,,,NNE,37,16:35,,,,NNW,13,,,,,NNE,24,
+,2020-09-13,,,,,,SW,31,15:39,,,,W,4,,,,,WSW,11,
+,2020-09-14,,,,,,S,28,10:25,,,,SSE,11,,,,,ESE,13,
+,2020-09-15,,,,,,NNE,37,22:32,,,,NE,13,,,,,NNE,26,
+,2020-09-16,,,,,,NNE,41,16:06,,,,NE,13,,,,,NNE,22,
+,2020-09-17,,,,,,S,70,17:31,,,,NW,11,,,,,ENE,7,
+,2020-09-18,,,,,,S,31,00:18,,,,S,15,,,,,S,11,
+,2020-09-19,,,,,,NNE,50,22:36,,,,SW,4,,,,,NE,11,
+,2020-09-20,,,,,,NNE,50,12:10,,,,N,19,,,,,NNE,26,
+,2020-09-21,,,,,,NNE,43,13:00,,,,NNE,11,,,,,NNE,26,
+,2020-09-22,,,,,,WSW,43,08:38,,,,WSW,19,,,,,WNW,19,
+,2020-09-23,,,,,,WSW,39,18:37,,,,E,9,,,,,WSW,13,
+,2020-09-24,,,,,,W,37,10:34,,,,W,19,,,,,WSW,15,
+,2020-09-25,,,,,,WNW,78,16:53,,,,N,24,,,,,NNW,22,
+,2020-09-26,,,,,,WNW,56,02:37,,,,W,26,,,,,W,31,
+,2020-09-27,,,,,,SSE,39,14:15,,,,W,17,,,,,SSE,28,
+,2020-09-28,,,,,,NE,24,14:14,,,,WSW,7,,,,,NE,15,
+,2020-09-29,,,,,,NNE,30,21:05,,,,SE,9,,,,,ENE,13,
+,2020-09-30,,,,,,N,37,14:25,,,,NNE,17,,,,,N,22,

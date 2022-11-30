@@ -1,0 +1,36 @@
+"Daily Weather Observations for North Head [Wind Only], New South Wales for February 2021"
+"Prepared at 13:00 UTC on Friday  8 October 2021   IDCJDW2192.202102"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Manly (North Head) {station 066197}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-02-1,,,,,,NE,37,20:45,,,,S,9,,,,,ESE,15,
+,2021-02-2,,,,,,SW,41,05:26,,,,SW,15,,,,,SSE,20,
+,2021-02-3,,,,,,S,37,23:15,,,,SW,15,,,,,SE,13,
+,2021-02-4,,,,,,NE,37,17:58,,,,N,11,,,,,NE,22,
+,2021-02-5,,,,,,NE,48,20:07,,,,NE,15,,,,,NE,26,
+,2021-02-6,,,,,,NNE,44,23:43,,,,NNE,19,,,,,NNE,17,
+,2021-02-7,,,,,,SSE,41,21:18,,,,WSW,11,,,,,SSE,17,
+,2021-02-8,,,,,,S,41,07:32,,,,SSE,26,,,,,S,20,
+,2021-02-9,,,,,,SSE,41,03:27,,,,SSE,19,,,,,SSE,20,
+,2021-02-10,,,,,,SSE,31,00:26,,,,WNW,6,,,,,ESE,15,
+,2021-02-11,,,,,,NNE,46,23:00,,,,N,7,,,,,ENE,19,
+,2021-02-12,,,,,,NNE,48,00:08,,,,NNE,17,,,,,NNE,26,
+,2021-02-13,,,,,,SSE,48,14:27,,,,S,17,,,,,SSE,30,
+,2021-02-14,,,,,,S,41,16:21,,,,SSW,15,,,,,S,26,
+,2021-02-15,,,,,,S,74,16:48,,,,S,30,,,,,S,35,
+,2021-02-16,,,,,,ESE,44,18:51,,,,ESE,26,,,,,SE,17,
+,2021-02-17,,,,,,ESE,48,22:14,,,,ESE,17,,,,,E,26,
+,2021-02-18,,,,,,ESE,43,10:20,,,,ESE,20,,,,,WSW,2,
+,2021-02-19,,,,,,E,41,00:12,,,,E,17,,,,,ESE,11,
+,2021-02-20,,,,,,ENE,24,18:47,,,,S,6,,,,,E,9,
+,2021-02-21,,,,,,SSE,28,14:18,,,,SSW,6,,,,,SSE,17,
+,2021-02-22,,,,,,S,54,21:09,,,,WSW,11,,,,,SSE,20,
+,2021-02-23,,,,,,S,54,23:05,,,,S,26,,,,,S,28,
+,2021-02-24,,,,,,SSW,31,23:44,,,,WSW,13,,,,,SSW,11,
+,2021-02-25,,,,,,NNE,20,19:37,,,,NW,4,,,,,SE,9,
+,2021-02-26,,,,,,SE,39,16:26,,,,SW,11,,,,,SE,13,
+,2021-02-27,,,,,,NE,24,17:50,,,,NNE,6,,,,,NNE,9,
+,2021-02-28,,,,,,SSE,30,12:00,,,,S,15,,,,,SSE,17,

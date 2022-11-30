@@ -1,0 +1,39 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for December 2020"
+"Prepared at 13:01 UTC on Sunday 10 October 2021   IDCJDW2190.202012"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-12-1,,,,,,ENE,48,17:56,,,,ENE,31,,,,,ENE,24,
+,2020-12-2,,,,,,NE,44,01:13,,,,NNE,20,,,,,NW,22,
+,2020-12-3,,,,,,E,72,06:25,,,,ESE,46,,,,,ESE,31,
+,2020-12-4,,,,,,WNW,35,16:23,,,,ENE,11,,,,,WNW,15,
+,2020-12-5,,,,,,ESE,44,20:35,,,,SW,19,,,,,ENE,19,
+,2020-12-6,,,,,,NW,63,19:59,,,,NW,19,,,,,NNE,28,
+,2020-12-7,,,,,,NNW,72,14:51,,,,NW,31,,,,,NW,35,
+,2020-12-8,,,,,,NW,85,04:59,,,,NNW,31,,,,,WSW,24,
+,2020-12-9,,,,,,SW,59,00:18,,,,SW,37,,,,,SSW,37,
+,2020-12-10,,,,,,E,26,15:10,,,,SW,11,,,,,SW,11,
+,2020-12-11,,,,,,ESE,61,20:42,,,,ESE,13,,,,,ESE,20,
+,2020-12-12,,,,,,ESE,67,04:50,,,,ESE,44,,,,,ESE,37,
+,2020-12-13,,,,,,E,70,11:53,,,,ESE,46,,,,,E,50,
+,2020-12-14,,,,,,E,69,04:24,,,,E,52,,,,,E,43,
+,2020-12-15,,,,,,E,54,00:28,,,,ENE,35,,,,,ENE,35,
+,2020-12-16,,,,,,E,50,22:10,,,,ENE,30,,,,,ENE,30,
+,2020-12-17,,,,,,S,54,16:10,,,,E,24,,,,,E,20,
+,2020-12-18,,,,,,N,35,03:26,,,,NE,13,,,,,N,17,
+,2020-12-19,,,,,,WNW,30,10:08,,,,N,11,,,,,NNE,17,
+,2020-12-20,,,,,,NNW,43,22:31,,,,N,13,,,,,NW,13,
+,2020-12-21,,,,,,NNW,39,23:39,,,,WNW,17,,,,,ENE,7,
+,2020-12-22,,,,,,NNW,54,16:53,,,,WNW,11,,,,,NW,24,
+,2020-12-23,,,,,,SW,63,09:15,,,,SW,31,,,,,SW,43,
+,2020-12-24,,,,,,SSW,54,23:14,,,,S,13,,,,,E,24,
+,2020-12-25,,,,,,E,31,09:22,,,,E,17,,,,,SSW,20,
+,2020-12-26,,,,,,ESE,43,09:05,,,,ESE,28,,,,,E,30,
+,2020-12-27,,,,,,E,41,12:06,,,,ENE,22,,,,,NE,20,
+,2020-12-28,,,,,,NW,41,08:31,,,,NNE,17,,,,,NNW,15,
+,2020-12-29,,,,,,NW,31,10:45,,,,NW,13,,,,,N,13,
+,2020-12-30,,,,,,NNE,30,05:35,,,,NNE,15,,,,,ENE,17,
+,2020-12-31,,,,,,ENE,35,09:36,,,,ENE,17,,,,,E,15,

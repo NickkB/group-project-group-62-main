@@ -1,0 +1,38 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for April 2021"
+"Prepared at 13:00 UTC on Wednesday 20 October 2021   IDCJDW2191.202104"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-04-1,,,,,,W,28,01:03,,,,WNW,15,,,,,E,13,
+,2021-04-2,,,,,,ESE,26,13:18,,,,NW,11,,,,,E,15,
+,2021-04-3,,,,,,NE,37,14:30,,,,NNW,15,,,,,NE,30,
+,2021-04-4,,,,,,NE,35,15:52,,,,WNW,15,,,,,NE,24,
+,2021-04-5,,,,,,SSW,37,12:07,,,,S,24,,,,,S,22,
+,2021-04-6,,,,,,W,30,14:26,,,,SSW,17,,,,,WSW,13,
+,2021-04-7,,,,,,SE,33,09:38,,,,SE,15,,,,,SE,19,
+,2021-04-8,,,,,,SE,26,12:33,,,,WNW,9,,,,,E,13,
+,2021-04-9,,,,,,S,57,18:00,,,,NW,17,,,,,NE,2,
+,2021-04-10,,,,,,W,57,10:20,,,,W,31,,,,,W,30,
+,2021-04-11,,,,,,WNW,63,08:35,,,,W,44,,,,,W,37,
+,2021-04-12,,,,,,SW,43,12:26,,,,WSW,28,,,,,S,20,
+,2021-04-13,,,,,,NE,37,16:11,,,,WNW,11,,,,,NE,30,
+,2021-04-14,,,,,,N,30,14:23,,,,W,6,,,,,NW,11,
+,2021-04-15,,,,,,WNW,39,20:37,,,,WSW,17,,,,,W,15,
+,2021-04-16,,,,,,S,48,10:19,,,,SSW,28,,,,,SSE,24,
+,2021-04-17,,,,,,WNW,24,20:19,,,,WSW,2,,,,, ,Calm,
+,2021-04-18,,,,,,SSW,24,11:22,,,,NW,15,,,,,SSE,13,
+,2021-04-19,,,,,,ENE,28,15:52,,,,NW,19,,,,,ENE,20,
+,2021-04-20,,,,,,WNW,26,08:04,,,,NW,17,,,,,W,4,
+,2021-04-21,,,,,,WSW,50,03:46,,,,WSW,26,,,,,SSW,28,
+,2021-04-22,,,,,,W,43,16:03,,,,WNW,19,,,,,WSW,24,
+,2021-04-23,,,,,,SW,43,12:21,,,,WNW,15,,,,,SE,17,
+,2021-04-24,,,,,,NW,26,06:21,,,,NW,15,,,,,E,15,
+,2021-04-25,,,,,,SSE,33,14:57,,,,NW,9,,,,,SSE,26,
+,2021-04-26,,,,,,ENE,22,13:51,,,,NW,11,,,,,ENE,17,
+,2021-04-27,,,,,,ESE,24,15:33,,,,WNW,9,,,,,ESE,17,
+,2021-04-28,,,,,,ENE,24,14:28,,,,NW,7,,,,,ENE,17,
+,2021-04-29,,,,,,ENE,28,13:43,,,,NW,13,,,,,ENE,20,
+,2021-04-30,,,,,,ESE,28,15:09,,,,NNW,11,,,,,ESE,19,

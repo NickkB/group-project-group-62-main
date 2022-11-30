@@ -1,0 +1,40 @@
+"Daily Weather Observations for Wollongong, New South Wales for May 2021"
+"Prepared at 13:00 UTC on Tuesday 19 October 2021   IDCJDW2146.202105"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Shellharbour Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-05-1,,22.5,0,,,NE,28,16:59,20.6,80,3, ,Calm,1030.6,21.8,75,,NNE,9,1027.8
+,2021-05-2,,24.2,0,,,NE,41,15:55,21.7,69,,N,19,1028.3,22.0,72,,NE,28,1024.4
+,2021-05-3,,24.0,0,,,N,28,01:45,20.8,73,,N,7,1021.8,23.2,70,,NNE,15,1017.6
+,2021-05-4,,19.0,0,,,S,30,10:52,18.5,78,8,WSW,9,1017.2,16.6,89,8,SW,9,1015.8
+,2021-05-5,,,14.4,,,SSW,46,16:51,16.9,92,8,WSW,15,1016.2,17.7,92,8,WSW,22,1013.6
+,2021-05-6,,,25.6,,,S,78,09:06,19.8,95,8,S,57,1014.9,21.1,88,8,SE,31,1013.1
+,2021-05-7,,22.1,32.8,,,S,56,03:51,20.5,93,8,ESE,17,1012.5,21.1,83,8,SSW,31,1009.9
+,2021-05-8,,26.3,3.6,,,W,30,09:30,22.0,63,,W,17,1012.0,24.9,40,,SW,13,1011.8
+,2021-05-9,,23.1,0,,,WSW,31,05:54,20.6,64,,WSW,9,1019.2,20.9,73,7,SSE,7,1016.6
+,2021-05-10,,25.6,0,,,WSW,37,06:03,21.1,58,,SE,7,1014.8,25.2,39,1,WNW,13,1011.5
+,2021-05-11,,22.4,0,,,NNW,43,12:54,20.1,65,1,N,7,1015.3,18.9,74,6,S,22,1015.2
+,2021-05-12,,21.1,4.4,,,S,33,16:48,18.6,70,8,S,11,1020.8,20.5,72,,S,24,1018.1
+,2021-05-13,,22.4,4.0,,,W,50,22:51,19.6,74,,SSW,6,1014.1,22.0,66,,NNE,11,1009.0
+,2021-05-14,14.8,,0,,,W,54,18:44,17.0,42,,W,28,1011.9,18.4,38,,WNW,20,1011.2
+,2021-05-15,12.8,18.8,0,,,W,69,12:52,15.9,49,,N,6,1012.0,17.5,33,,W,24,1010.8
+,2021-05-16,10.4,19.7,0,,,W,48,23:24,14.8,46,,W,15,1021.3,19.5,28,,WNW,13,1017.3
+,2021-05-17,12.2,19.8,0,,,W,48,04:05,16.6,48,,WSW,20,1021.8,17.9,54,4,SSE,22,1022.1
+,2021-05-18,10.2,20.0,0,,,E,19,12:28,17.2,53,,NNW,2,1028.9,19.3,51,,NE,13,1026.5
+,2021-05-19,11.4,21.6,0,,,NNE,24,17:17,17.9,50,,NW,7,1028.7,21.1,39,,NNE,9,1025.1
+,2021-05-20,12.1,22.3,0,,,WNW,48,06:33,17.2,46,6,W,13,1025.9,20.6,32,,SSW,15,1025.0
+,2021-05-21,13.1,18.5,4.6,,,SSW,41,13:09,14.8,92,7,WSW,17,1031.2,18.1,66,8,S,33,1029.0
+,2021-05-22,10.5,20.1,0,,,SSE,22,11:37,17.4,69,3,WSW,9,1028.2,19.4,64,,SSE,9,1024.7
+,2021-05-23,13.6,20.9,0,,,S,35,13:28,18.2,76,,WSW,11,1027.3,19.9,69,,S,22,1026.4
+,2021-05-24,15.9,19.8,14.2,,,N,33,22:36,17.7,90,,SW,15,1031.3,18.9,83,,S,9,1028.6
+,2021-05-25,15.4,22.1,3.2,,,N,52,23:09,19.6,69,,NNW,30,1026.0,21.1,68,,NE,24,1020.6
+,2021-05-26,16.1,22.0,0,,,WNW,63,18:51,18.4,51,,NW,11,1017.2,20.7,37,,W,20,1016.5
+,2021-05-27,12.3,20.3,0,,,W,39,20:40,15.3,48,,W,13,1023.5,19.8,33,,SW,17,1020.7
+,2021-05-28,13.2,17.6,0,,,SSW,59,13:04,15.7,46,,SW,26,1024.5,16.8,43,,SSW,37,1025.0
+,2021-05-29,11.8,16.6,0,,,SSW,56,13:09,13.4,49,7,SW,28,1029.4,15.6,55,8,SW,30,1027.7
+,2021-05-30,12.3,17.7,0,,,SSW,48,03:00,15.0,64,5,SW,24,1029.1,17.4,57,5,SSW,22,1026.6
+,2021-05-31,11.5,19.0,0,,,NW,17,22:48,16.1,56,, ,Calm,1025.9,18.1,55,1,ENE,9,1023.3

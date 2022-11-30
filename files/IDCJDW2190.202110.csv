@@ -1,0 +1,34 @@
+"Daily Weather Observations for Lord Howe Island (Windy Point) [Wind Only] for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2190.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Lord Howe Island Windy Point {station 200715}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,,,,,,N,76,20:59,,,,NNE,20,,,,,E,19,
+,2021-10-2,,,,,,N,67,00:47,,,,ENE,15,,,,,NW,9,
+,2021-10-3,,,,,,NW,41,01:10,,,,NW,19,,,,,WNW,20,
+,2021-10-4,,,,,,NW,59,21:01,,,,NNE,15,,,,,NW,19,
+,2021-10-5,,,,,,NW,57,23:04,,,,SW,30,,,,,WSW,17,
+,2021-10-6,,,,,,SW,46,07:39,,,,SW,31,,,,,WSW,35,
+,2021-10-7,,,,,,NW,39,13:29,,,,WNW,13,,,,,NW,24,
+,2021-10-8,,,,,,NW,43,12:44,,,,NW,20,,,,,NW,20,
+,2021-10-9,,,,,,E,31,09:36,,,,E,17,,,,,E,20,
+,2021-10-10,,,,,,NW,46,22:28,,,,NW,24,,,,,NW,24,
+,2021-10-11,,,,,,NW,61,06:24,,,,NW,43,,,,,NW,43,
+,2021-10-12,,,,,,E,56,23:07,,,,ESE,30,,,,,ESE,33,
+,2021-10-13,,,,,,E,44,09:05,,,,ESE,26,,,,,ESE,19,
+,2021-10-14,,,,,,E,50,22:33,,,,ENE,28,,,,,ENE,26,
+,2021-10-15,,,,,,NNE,65,10:41,,,,N,26,,,,,NNE,24,
+,2021-10-16,,,,,,WNW,102,01:23,,,,NW,24,,,,,W,31,
+,2021-10-17,,,,,,WNW,54,01:15,,,,WSW,24,,,,,SSW,17,
+,2021-10-18,,,,,,ENE,37,18:42,,,,N,13,,,,,NNE,9,
+,2021-10-19,,,,,,N,35,10:35,,,,NNE,13,,,,,E,13,
+,2021-10-20,,,,,,ESE,37,06:52,,,,ESE,11,,,,,SSW,19,
+,2021-10-21,,,,,,WSW,31,07:30,,,,WSW,22,,,,,WSW,19,
+,2021-10-22,,,,,,WSW,22,17:52,,,,SW,17,,,,,WSW,17,
+,2021-10-23,,,,,,WNW,31,09:58,,,,WNW,19,,,,,NW,22,
+,2021-10-24,,,,,,NNW,65,16:54,,,,NW,13,,,,,NW,11,
+,2021-10-25,,,,,,SSW,46,23:01,,,,SW,11,,,,,W,11,
+,2021-10-26,,,,,,,,,,,,E,17,,,,,SW,13,

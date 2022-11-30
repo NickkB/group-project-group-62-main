@@ -1,0 +1,39 @@
+"Daily Weather Observations for Little Bay [Wind Only], New South Wales for May 2021"
+"Prepared at 13:01 UTC on Tuesday 19 October 2021   IDCJDW2193.202105"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Little Bay (The Coast Golf Club) {station 066051}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-05-1,,,,,,ENE,30,18:31,,,,W,9,,,,,NE,15,
+,2021-05-2,,,,,,NNE,28,15:23,,,,NW,6,,,,,NE,20,
+,2021-05-3,,,,,,NNE,24,15:43,,,,WNW,11,,,,,NNE,17,
+,2021-05-4,,,,,,S,28,02:26,,,,W,11,,,,,WSW,7,
+,2021-05-5,,,,,,SSE,37,11:07,,,,S,15,,,,,SW,15,
+,2021-05-6,,,,,,SSE,74,07:13,,,,SSE,37,,,,,SSE,13,
+,2021-05-7,,,,,,SSW,33,14:38,,,,S,15,,,,,SSW,20,
+,2021-05-8,,,,,,WNW,22,09:39,,,,WNW,15,,,,,WNW,6,
+,2021-05-9,,,,,,WNW,19,04:13,,,,WNW,7,,,,,SSW,6,
+,2021-05-10,,,,,,W,22,10:03,,,,W,15,,,,,W,7,
+,2021-05-11,,,,,,SSW,31,21:26,,,,NW,6,,,,,S,11,
+,2021-05-12,,,,,,SSW,39,09:36,,,,SSW,22,,,,,S,22,
+,2021-05-13,,,,,,W,26,20:56,,,,W,9,,,,,E,6,
+,2021-05-14,,,,,,W,41,10:11,,,,WSW,15,,,,,W,17,
+,2021-05-15,,,,,,W,52,15:10,,,,NNW,4,,,,,W,30,
+,2021-05-16,,,,,,WSW,41,20:27,,,,W,17,,,,,WSW,9,
+,2021-05-17,,,,,,W,37,04:39,,,,WSW,20,,,,,S,17,
+,2021-05-18,,,,,,WNW,20,03:54,,,,WNW,9,,,,,NE,9,
+,2021-05-19,,,,,,W,24,09:17,,,,WNW,17,,,,,NE,13,
+,2021-05-20,,,,,,WNW,28,07:58,,,,WNW,13,,,,,SSW,11,
+,2021-05-21,,,,,,S,44,08:50,,,,S,28,,,,,S,19,
+,2021-05-22,,,,,,WNW,20,07:56,,,,WNW,11,,,,,S,13,
+,2021-05-23,,,,,,SSW,28,14:50,,,,WNW,13,,,,,SSW,19,
+,2021-05-24,,,,,,E,31,01:41,,,,WNW,9,,,,,E,9,
+,2021-05-25,,,,,,N,43,19:39,,,,W,11,,,,,NNE,22,
+,2021-05-26,,,,,,WSW,46,20:39,,,,WSW,11,,,,,WSW,11,
+,2021-05-27,,,,,,WSW,35,21:53,,,,WNW,19,,,,,WSW,9,
+,2021-05-28,,,,,,SSW,57,12:49,,,,SW,19,,,,,SW,28,
+,2021-05-29,,,,,,SW,54,13:10,,,,SW,22,,,,,SSW,26,
+,2021-05-30,,,,,,SSW,56,01:30,,,,SW,19,,,,,SSW,22,
+,2021-05-31,,,,,,WNW,19,09:05,,,,WNW,11,,,,,ESE,7,

@@ -1,0 +1,33 @@
+"Daily Weather Observations for South West Rocks, New South Wales for October 2021"
+"Prepared at 05:36 UTC on Tuesday 26 October 2021   IDCJDW2123.202110"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations from Smoky Cape Lighthouse."
+"Observations were drawn from South West Rocks (Smoky Cape Lighthouse) {station 059030}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-10-1,15.4,23.0,26.0,,,,,,17.0,96,7,N,33,,,,,,,
+,2021-10-2,14.0,24.5,0,,,,,,18.8,61,1,W,22,,,,,,,
+,2021-10-3,17.5,26.8,0,,,,,,18.0,60,0,WSW,15,,,,,,,
+,2021-10-4,18.0,31.5,0,,,,,,20.0,57,6,NNW,19,,,,,,,
+,2021-10-5,18.1,27.3,0,,,,,,19.7,39,0,SW,7,,,,,,,
+,2021-10-6,14.6,,0,,,,,,15.7,47,0,SW,13,,,,,,,
+,2021-10-7,,25.2,0,,,,,,,,,,,,,,,,,
+,2021-10-8,15.2,,0,,,,,,17.8,79,4,SW,6,,,,,,,
+,2021-10-9,,25.8,0,,,,,,,,,,,,,,,,,
+,2021-10-10,18.2,,0,,,,,,19.8,95,4,N,19,,,,,,,
+,2021-10-11,,24.8,,,,,,,,,,,,,,,,,,
+,2021-10-12,13.0,17.0,32.6,,,,,,14.8,99,8,SE,6,,,,,,,
+,2021-10-13,14.5,19.2,29.0,,,,,,15.4,97,8,NE,13,,,,,,,
+,2021-10-14,15.5,,4.0,,,,,,18.0,99,8,N,19,,,,,,,
+,2021-10-15,,27.8,0,,,,,,19.5,99,4,N,26,,,,,,,
+,2021-10-16,13.2,24.5,0,,,,,,15.8,58,1,NW,7,,,,,,,
+,2021-10-17,15.8,25.4,0,,,,,,16.1,54,0,WSW,19,,,,,,,
+,2021-10-18,16.1,24.5,0,,,,,,17.7,83,,N,7,,,,,,,
+,2021-10-19,16.5,25.3,0,,,,,,18.3,82,5,N,13,,,,,,,
+,2021-10-20,14.8,21.0,0,,,,,,17.4,79,7,SW,7,,,,,,,
+,2021-10-21,14.0,24.7,0,,,,,,15.8,85,4,SW,4,,,,,,,
+,2021-10-22,15.5,26.9,0,,,,,,19.8,81,4,SW,2,,,,,,,
+,2021-10-23,18.9,26.0,0,,,,,,20.0,94,0, ,Calm,,,,,,,
+,2021-10-24,18.7,25.5,0,,,,,,20.3,89,1,SW,9,,,,,,,
+,2021-10-25,16.0,26.3,0,,,,,,18.3,81,5,SW,6,,,,,,,
+,2021-10-26,15.1,,0,,,,,,18.2,84,5,SW,4,,,,,,,

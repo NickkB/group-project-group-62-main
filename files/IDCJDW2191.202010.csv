@@ -1,0 +1,39 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for October 2020"
+"Prepared at 13:00 UTC on Tuesday 12 October 2021   IDCJDW2191.202010"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2020-10-1,,,,,,WNW,41,10:18,,,,WNW,7,,,,,E,19,
+,2020-10-2,,,,,,NE,41,18:59,,,,WNW,11,,,,,NE,28,
+,2020-10-3,,,,,,NE,56,19:35,,,,NW,13,,,,,NE,39,
+,2020-10-4,,,,,,NE,59,17:30,,,,NNW,7,,,,,NE,39,
+,2020-10-5,,,,,,SSW,74,21:38,,,,N,24,,,,,NE,30,
+,2020-10-6,,,,,,SSW,70,23:38,,,,SSW,26,,,,,SSW,31,
+,2020-10-7,,,,,,SSW,30,23:05,,,,SSW,15,,,,,S,15,
+,2020-10-8,,,,,,WNW,56,17:51,,,,NNE,24,,,,,NE,20,
+,2020-10-9,,,,,,W,59,13:08,,,,W,35,,,,,WNW,39,
+,2020-10-10,,,,,,W,41,00:51,,,,W,26,,,,,E,20,
+,2020-10-11,,,,,,NE,39,12:36,,,,NW,17,,,,,NE,31,
+,2020-10-12,,,,,,NE,41,19:49,,,,SSW,20,,,,,E,17,
+,2020-10-13,,,,,,SSW,56,20:43,,,,NW,17,,,,,NE,28,
+,2020-10-14,,,,,,S,41,23:43,,,,S,22,,,,,SSE,20,
+,2020-10-15,,,,,,NE,54,14:47,,,,N,17,,,,,NE,41,
+,2020-10-16,,,,,,SSW,70,04:58,,,,SSW,30,,,,,S,30,
+,2020-10-17,,,,,,NE,56,12:57,,,,NNE,28,,,,,NE,41,
+,2020-10-18,,,,,,SSE,44,17:00,,,,SSW,4,,,,,SSE,24,
+,2020-10-19,,,,,,SSW,39,06:16,,,,SSW,15,,,,,SSE,22,
+,2020-10-20,,,,,,E,33,15:03,,,,SE,15,,,,,E,22,
+,2020-10-21,,,,,,NE,52,15:25,,,,NNE,24,,,,,NE,37,
+,2020-10-22,,,,,,NE,35,20:12,,,,S,17,,,,,SSE,20,
+,2020-10-23,,,,,,NE,57,20:50,,,,NE,22,,,,,ENE,39,
+,2020-10-24,,,,,,SSW,70,22:18,,,,N,22,,,,,NNW,24,
+,2020-10-25,,,,,,SSW,65,11:40,,,,S,43,,,,,SSW,41,
+,2020-10-26,,,,,,SSE,72,04:36,,,,SSE,44,,,,,S,41,
+,2020-10-27,,,,,,S,54,05:47,,,,S,35,,,,,SSW,33,
+,2020-10-28,,,,,,S,35,14:11,,,,WSW,11,,,,,S,24,
+,2020-10-29,,,,,,SW,35,05:29,,,,SSW,20,,,,,S,22,
+,2020-10-30,,,,,,SSE,30,09:50,,,,NW,9,,,,,SE,17,
+,2020-10-31,,,,,,WSW,59,12:27,,,,E,26,,,,,SSW,35,

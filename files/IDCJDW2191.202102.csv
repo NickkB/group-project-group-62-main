@@ -1,0 +1,36 @@
+"Daily Weather Observations for Kurnell [Wind Only], New South Wales for February 2021"
+"Prepared at 13:00 UTC on Friday  8 October 2021   IDCJDW2191.202102"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Only wind observations are available from this automatic weather station."
+"Only wind observations are available from this automatic weather station."
+"Observations were drawn from Kurnell AWS {station 066043}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2021-02-1,,,,,,NNE,54,19:01,,,,SSW,17,,,,,E,17,
+,2021-02-2,,,,,,SSW,50,04:18,,,,SW,28,,,,,S,24,
+,2021-02-3,,,,,,WSW,48,02:11,,,,SSW,31,,,,,SE,19,
+,2021-02-4,,,,,,NE,54,13:42,,,,WNW,9,,,,,NE,39,
+,2021-02-5,,,,,,NE,59,12:56,,,,NNE,24,,,,,NE,39,
+,2021-02-6,,,,,,NNE,46,01:12,,,,NNE,24,,,,,NE,24,
+,2021-02-7,,,,,,SSE,41,14:16,,,,WSW,15,,,,,SSE,22,
+,2021-02-8,,,,,,S,44,09:08,,,,SSW,31,,,,,S,26,
+,2021-02-9,,,,,,S,39,13:13,,,,SE,20,,,,,S,28,
+,2021-02-10,,,,,,SE,30,08:42,,,,SSE,17,,,,,ESE,17,
+,2021-02-11,,,,,,NE,52,17:39,,,,NW,15,,,,,ENE,33,
+,2021-02-12,,,,,,NNE,54,00:02,,,,NNE,19,,,,,NE,30,
+,2021-02-13,,,,,,S,52,14:22,,,,SSW,28,,,,,S,31,
+,2021-02-14,,,,,,SSW,48,16:41,,,,SSW,31,,,,,S,30,
+,2021-02-15,,,,,,SSW,76,17:02,,,,SSW,35,,,,,SSW,48,
+,2021-02-16,,,,,,SSW,46,23:03,,,,ESE,15,,,,,SSE,28,
+,2021-02-17,,,,,,SE,41,23:00,,,,S,20,,,,,SE,24,
+,2021-02-18,,,,,,E,41,11:28,,,,E,17,,,,,ENE,9,
+,2021-02-19,,,,,,E,37,02:00,,,,E,26,,,,,E,15,
+,2021-02-20,,,,,,ENE,28,14:57,,,, ,Calm,,,,,E,20,
+,2021-02-21,,,,,,S,31,14:38,,,,S,13,,,,,SSE,24,
+,2021-02-22,,,,,,SSW,67,20:39,,,,SW,11,,,,,S,37,
+,2021-02-23,,,,,,S,59,23:17,,,,S,31,,,,,S,35,
+,2021-02-24,,,,,,SW,48,08:34,,,,SSW,35,,,,,SSW,28,
+,2021-02-25,,,,,,WSW,28,11:29,,,,WNW,13,,,,,WSW,13,
+,2021-02-26,,,,,,SE,35,15:23,,,,SSW,20,,,,,SSE,20,
+,2021-02-27,,,,,,NE,33,18:55,,,,WSW,13,,,,,NE,15,
+,2021-02-28,,,,,,SSW,39,08:24,,,,SSW,31,,,,,SSE,20,
